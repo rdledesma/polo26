@@ -1,0 +1,101 @@
+id,provincia,ciudad,producto,hectareas,produccion_tn,anio
+1,Santiago del Estero,Santiago Capital,Pimiento,287,463.55,2023
+2,Catamarca,San Fernando del Valle,Vino,89,735.0,2022
+3,Catamarca,San Fernando del Valle,Quinua,170,449.84,2023
+4,Tucumán,San Miguel de Tucumán,Caña de azúcar,480,118.44,2024
+5,Santiago del Estero,Santiago Capital,Pimiento,300,730.77,2024
+6,Tucumán,San Miguel de Tucumán,Nuez,452,726.72,2024
+7,Tucumán,San Miguel de Tucumán,Caña de azúcar,23,142.79,2023
+8,Catamarca,San Fernando del Valle,Tabaco,381,95.73,2025
+9,Tucumán,San Miguel de Tucumán,Pimiento,90,707.0,2025
+10,Santiago del Estero,Santiago Capital,Quinua,49,277.14,2022
+11,Salta,Salta Capital,Tabaco,357,236.93,2024
+12,Salta,Salta Capital,Miel,49,609.7,2022
+13,Catamarca,San Fernando del Valle,Papa andina,59,270.82,2023
+14,Santiago del Estero,Santiago Capital,Nuez,20,671.79,2024
+15,Tucumán,San Miguel de Tucumán,Quinua,458,117.53,2023
+16,Salta,Salta Capital,Vino,367,334.34,2025
+17,Santiago del Estero,Santiago Capital,Pimiento,247,108.2,2023
+18,Santiago del Estero,Santiago Capital,Nuez,369,271.14,2025
+19,Jujuy,San Salvador de Jujuy,Caña de azúcar,67,733.51,2022
+20,Salta,Salta Capital,Vino,221,701.98,2022
+21,Salta,Salta Capital,Pimiento,321,423.25,2024
+22,Tucumán,San Miguel de Tucumán,Pimiento,380,731.9,2023
+23,Jujuy,San Salvador de Jujuy,Pimiento,289,752.26,2023
+24,Tucumán,San Miguel de Tucumán,Vino,347,386.26,2024
+25,Catamarca,San Fernando del Valle,Nuez,154,183.53,2023
+26,Salta,Salta Capital,Pimiento,112,521.57,2022
+27,Santiago del Estero,Santiago Capital,Pimiento,256,535.86,2023
+28,Salta,Salta Capital,Caña de azúcar,188,327.13,2023
+29,Santiago del Estero,Santiago Capital,Miel,396,377.08,2023
+30,Catamarca,San Fernando del Valle,Tabaco,455,460.14,2022
+31,Jujuy,San Salvador de Jujuy,Miel,464,463.07,2023
+32,Catamarca,San Fernando del Valle,Tabaco,349,253.78,2024
+33,Jujuy,San Salvador de Jujuy,Vino,421,343.39,2023
+34,Santiago del Estero,Santiago Capital,Caña de azúcar,407,696.62,2024
+35,Tucumán,San Miguel de Tucumán,Papa andina,492,494.63,2024
+36,Salta,Salta Capital,Quinua,256,556.16,2025
+37,Santiago del Estero,Santiago Capital,Caña de azúcar,366,324.69,2025
+38,Tucumán,San Miguel de Tucumán,Quinua,443,798.99,2025
+39,Jujuy,San Salvador de Jujuy,Tabaco,143,217.05,2023
+40,Catamarca,San Fernando del Valle,Vino,107,468.03,2025
+41,Santiago del Estero,Santiago Capital,Nuez,89,681.04,2024
+42,Salta,Salta Capital,Pimiento,278,67.92,2023
+43,Salta,Salta Capital,Vino,155,368.55,2023
+44,Salta,Salta Capital,Quinua,204,274.16,2022
+45,Catamarca,San Fernando del Valle,Tabaco,72,701.08,2024
+46,Catamarca,San Fernando del Valle,Caña de azúcar,419,706.68,2025
+47,Tucumán,San Miguel de Tucumán,Miel,193,732.83,2025
+48,Catamarca,San Fernando del Valle,Vino,134,606.5,2023
+49,Santiago del Estero,Santiago Capital,Vino,103,672.22,2023
+50,Catamarca,San Fernando del Valle,Vino,445,754.5,2025
+51,Tucumán,San Miguel de Tucumán,Pimiento,166,407.92,2022
+52,Tucumán,San Miguel de Tucumán,Pimiento,457,549.31,2023
+53,Salta,Salta Capital,Pimiento,32,346.04,2025
+54,Jujuy,San Salvador de Jujuy,Nuez,234,758.27,2022
+55,Tucumán,San Miguel de Tucumán,Caña de azúcar,67,658.77,2023
+56,Salta,Salta Capital,Caña de azúcar,473,37.93,2024
+57,Santiago del Estero,Santiago Capital,Papa andina,324,692.57,2023
+58,Tucumán,San Miguel de Tucumán,Caña de azúcar,151,664.93,2024
+59,Salta,Salta Capital,Nuez,319,720.95,2024
+60,Tucumán,San Miguel de Tucumán,Caña de azúcar,488,704.95,2024
+61,Catamarca,San Fernando del Valle,Vino,41,369.22,2023
+62,Santiago del Estero,Santiago Capital,Pimiento,422,746.43,2024
+63,Tucumán,San Miguel de Tucumán,Caña de azúcar,373,111.19,2025
+64,Tucumán,San Miguel de Tucumán,Vino,117,694.09,2023
+65,Tucumán,San Miguel de Tucumán,Papa andina,224,170.27,2024
+66,Tucumán,San Miguel de Tucumán,Quinua,473,220.3,2023
+67,Jujuy,San Salvador de Jujuy,Pimiento,27,213.15,2025
+68,Jujuy,San Salvador de Jujuy,Caña de azúcar,212,123.0,2025
+69,Santiago del Estero,Santiago Capital,Papa andina,269,171.42,2024
+70,Jujuy,San Salvador de Jujuy,Tabaco,487,297.6,2024
+71,Santiago del Estero,Santiago Capital,Miel,362,67.24,2023
+72,Jujuy,San Salvador de Jujuy,Pimiento,35,223.51,2024
+73,Jujuy,San Salvador de Jujuy,Miel,244,175.09,2025
+74,Jujuy,San Salvador de Jujuy,Vino,445,479.25,2022
+75,Jujuy,San Salvador de Jujuy,Tabaco,391,48.03,2022
+76,Catamarca,San Fernando del Valle,Vino,19,505.08,2022
+77,Catamarca,San Fernando del Valle,Miel,116,621.2,2023
+78,Catamarca,San Fernando del Valle,Miel,464,771.21,2024
+79,Tucumán,San Miguel de Tucumán,Pimiento,210,74.14,2025
+80,Salta,Salta Capital,Quinua,452,308.76,2022
+81,Salta,Salta Capital,Miel,171,136.14,2022
+82,Jujuy,San Salvador de Jujuy,Tabaco,405,568.07,2024
+83,Tucumán,San Miguel de Tucumán,Miel,464,65.82,2023
+84,Salta,Salta Capital,Quinua,220,631.81,2023
+85,Salta,Salta Capital,Quinua,134,782.32,2023
+86,Santiago del Estero,Santiago Capital,Pimiento,97,662.35,2025
+87,Santiago del Estero,Santiago Capital,Pimiento,482,246.77,2025
+88,Catamarca,San Fernando del Valle,Papa andina,122,731.81,2025
+89,Salta,Salta Capital,Vino,125,511.04,2024
+90,Jujuy,San Salvador de Jujuy,Tabaco,171,329.99,2024
+91,Catamarca,San Fernando del Valle,Caña de azúcar,174,566.17,2023
+92,Salta,Salta Capital,Caña de azúcar,446,39.31,2024
+93,Salta,Salta Capital,Nuez,440,5.92,2023
+94,Santiago del Estero,Santiago Capital,Pimiento,344,526.72,2023
+95,Salta,Salta Capital,Nuez,71,133.69,2024
+96,Salta,Salta Capital,Papa andina,324,475.88,2023
+97,Tucumán,San Miguel de Tucumán,Tabaco,265,108.41,2025
+98,Jujuy,San Salvador de Jujuy,Quinua,419,530.62,2024
+99,Jujuy,San Salvador de Jujuy,Pimiento,253,402.86,2023
+100,Santiago del Estero,Santiago Capital,Vino,215,792.55,2023

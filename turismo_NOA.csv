@@ -1,0 +1,501 @@
+fecha,provincia,atractivo,visitantes,temperatura_prom,satisfaccion
+2025-04-15,Jujuy,Tren a las Nubes,4816,27.2,5
+2025-04-11,Santiago del Estero,Termas,7412,13.8,7
+2025-12-28,Salta,Valles Calchaquíes,475,20.1,4
+2025-08-19,Santiago del Estero,Tren a las Nubes,5176,34.2,1
+2025-03-08,Jujuy,Valles Calchaquíes,7755,32.1,4
+2025-07-12,Salta,Quebrada de Humahuaca,6856,21.7,5
+2025-06-10,Tucumán,Parque Nacional Los Cardones,2718,26.5,9
+2025-08-25,Salta,Parque Nacional Los Cardones,9344,22.4,6
+2025-07-05,Santiago del Estero,Valles Calchaquíes,4381,18.3,10
+2025-11-06,Santiago del Estero,Termas,8335,14.3,7
+2025-12-01,Jujuy,Termas,4388,27.8,7
+2025-08-02,Salta,Termas,9994,13.6,7
+2025-07-01,Santiago del Estero,Tren a las Nubes,7862,15.8,9
+2025-05-09,Santiago del Estero,Tren a las Nubes,113,34.8,9
+2025-09-02,Santiago del Estero,Termas,7918,14.3,5
+2025-01-07,Santiago del Estero,Termas,509,30.2,6
+2025-01-01,Catamarca,Parque Nacional Los Cardones,7752,25.1,2
+2025-02-06,Salta,Parque Nacional Los Cardones,83,14.7,8
+2025-05-24,Santiago del Estero,Termas,7665,17.2,8
+2025-02-06,Jujuy,Quebrada de Humahuaca,5702,11.6,8
+2025-08-12,Catamarca,Termas,4387,13.3,9
+2025-04-08,Jujuy,Parque Nacional Los Cardones,2532,31.7,4
+2025-09-22,Tucumán,Valles Calchaquíes,7028,17.9,10
+2025-01-18,Jujuy,Tren a las Nubes,549,12.5,4
+2025-04-17,Salta,Ruta del Adobe,6062,28.5,10
+2025-10-13,Santiago del Estero,Valles Calchaquíes,7841,30.5,8
+2025-08-21,Salta,Termas,3831,19.6,2
+2025-04-16,Jujuy,Valles Calchaquíes,6447,15.5,7
+2025-03-21,Jujuy,Ruta del Adobe,904,18.9,10
+2025-02-12,Jujuy,Parque Nacional Los Cardones,8946,21.0,2
+2025-06-17,Jujuy,Tren a las Nubes,9639,35.0,6
+2025-03-12,Catamarca,Ruta del Adobe,1318,27.6,8
+2025-02-07,Santiago del Estero,Parque Nacional Los Cardones,3349,26.8,2
+2025-07-07,Jujuy,Valles Calchaquíes,3952,15.7,2
+2025-05-10,Santiago del Estero,Parque Nacional Los Cardones,3082,25.5,9
+2025-12-13,Catamarca,Tren a las Nubes,5180,24.8,2
+2025-10-16,Jujuy,Quebrada de Humahuaca,5449,27.4,8
+2025-07-06,Catamarca,Parque Nacional Los Cardones,8030,23.5,10
+2025-01-04,Salta,Termas,3145,13.1,7
+2025-02-26,Jujuy,Tren a las Nubes,2923,34.2,8
+2025-03-15,Tucumán,Ruta del Adobe,372,20.5,1
+2025-03-20,Catamarca,Parque Nacional Los Cardones,9802,17.2,2
+2025-11-18,Catamarca,Quebrada de Humahuaca,4257,13.6,2
+2025-08-01,Jujuy,Tren a las Nubes,2566,17.5,7
+2025-09-27,Jujuy,Ruta del Adobe,8142,16.3,5
+2025-03-22,Santiago del Estero,Valles Calchaquíes,5135,29.5,8
+2025-06-05,Catamarca,Ruta del Adobe,9729,32.1,1
+2025-12-28,Santiago del Estero,Valles Calchaquíes,1461,23.7,4
+2025-12-21,Santiago del Estero,Tren a las Nubes,6546,25.8,3
+2025-05-11,Santiago del Estero,Ruta del Adobe,9924,17.0,1
+2025-07-07,Santiago del Estero,Quebrada de Humahuaca,6291,27.7,6
+2025-07-08,Jujuy,Quebrada de Humahuaca,4059,19.9,4
+2025-09-20,Santiago del Estero,Parque Nacional Los Cardones,506,32.6,6
+2025-02-05,Jujuy,Parque Nacional Los Cardones,8634,11.1,10
+2025-11-18,Catamarca,Quebrada de Humahuaca,2945,34.2,10
+2025-06-13,Santiago del Estero,Valles Calchaquíes,7586,22.0,4
+2025-09-12,Santiago del Estero,Valles Calchaquíes,3649,17.3,5
+2025-06-19,Santiago del Estero,Termas,9414,31.2,4
+2025-01-20,Tucumán,Termas,3449,21.3,3
+2025-09-26,Tucumán,Tren a las Nubes,5961,19.2,5
+2025-08-22,Tucumán,Ruta del Adobe,7846,20.9,5
+2025-10-07,Jujuy,Quebrada de Humahuaca,8957,13.2,6
+2025-07-20,Jujuy,Tren a las Nubes,9831,28.1,10
+2025-10-11,Catamarca,Valles Calchaquíes,468,31.6,5
+2025-02-17,Salta,Termas,5362,32.5,1
+2025-12-26,Santiago del Estero,Termas,3124,11.1,7
+2025-11-19,Jujuy,Termas,2947,20.0,7
+2025-09-25,Catamarca,Quebrada de Humahuaca,9568,27.6,4
+2025-05-18,Jujuy,Ruta del Adobe,703,20.4,6
+2025-06-25,Salta,Quebrada de Humahuaca,8465,20.8,7
+2025-06-10,Jujuy,Tren a las Nubes,7243,15.0,1
+2025-01-13,Santiago del Estero,Parque Nacional Los Cardones,4813,11.1,8
+2025-03-27,Salta,Parque Nacional Los Cardones,7578,23.7,3
+2025-07-21,Tucumán,Termas,239,16.6,8
+2025-02-07,Tucumán,Ruta del Adobe,8878,22.2,10
+2025-04-22,Salta,Valles Calchaquíes,2037,15.4,1
+2025-03-17,Tucumán,Valles Calchaquíes,1652,29.8,1
+2025-09-27,Tucumán,Quebrada de Humahuaca,9967,33.3,9
+2025-05-02,Catamarca,Valles Calchaquíes,8010,14.0,6
+2025-11-17,Salta,Termas,7064,20.1,8
+2025-10-14,Catamarca,Quebrada de Humahuaca,7903,23.8,1
+2025-03-09,Tucumán,Termas,6680,33.8,10
+2025-06-06,Jujuy,Termas,7798,12.3,7
+2025-07-09,Salta,Parque Nacional Los Cardones,6844,10.7,5
+2025-12-07,Jujuy,Valles Calchaquíes,6647,19.0,1
+2025-07-27,Tucumán,Tren a las Nubes,1996,14.7,1
+2025-06-06,Santiago del Estero,Valles Calchaquíes,3089,30.9,10
+2025-05-11,Tucumán,Tren a las Nubes,9262,14.1,8
+2025-09-13,Catamarca,Parque Nacional Los Cardones,1340,19.6,8
+2025-05-25,Catamarca,Valles Calchaquíes,5754,31.5,9
+2025-08-22,Catamarca,Ruta del Adobe,3453,23.3,5
+2025-03-28,Jujuy,Parque Nacional Los Cardones,7141,17.1,1
+2025-10-15,Tucumán,Tren a las Nubes,5224,18.1,8
+2025-01-16,Jujuy,Tren a las Nubes,9083,31.4,5
+2025-07-01,Catamarca,Termas,7529,13.0,7
+2025-09-02,Catamarca,Valles Calchaquíes,7120,17.8,1
+2025-05-26,Jujuy,Valles Calchaquíes,3855,30.5,5
+2025-03-21,Catamarca,Valles Calchaquíes,6359,21.8,2
+2025-05-26,Santiago del Estero,Ruta del Adobe,5834,18.9,8
+2025-08-11,Santiago del Estero,Ruta del Adobe,3155,17.6,5
+2025-02-18,Tucumán,Termas,7359,11.3,7
+2025-03-25,Jujuy,Tren a las Nubes,5448,15.3,1
+2025-12-28,Santiago del Estero,Tren a las Nubes,9809,16.6,2
+2025-11-03,Santiago del Estero,Tren a las Nubes,934,26.4,9
+2025-06-25,Catamarca,Parque Nacional Los Cardones,1492,19.8,3
+2025-11-20,Santiago del Estero,Parque Nacional Los Cardones,81,33.9,2
+2025-05-17,Santiago del Estero,Valles Calchaquíes,1841,21.8,10
+2025-09-27,Catamarca,Tren a las Nubes,4045,27.6,6
+2025-04-05,Santiago del Estero,Termas,252,12.7,2
+2025-04-23,Salta,Ruta del Adobe,6074,11.7,9
+2025-05-24,Tucumán,Parque Nacional Los Cardones,3457,17.1,8
+2025-08-16,Salta,Parque Nacional Los Cardones,4734,19.8,2
+2025-08-10,Santiago del Estero,Parque Nacional Los Cardones,6958,12.2,2
+2025-12-07,Catamarca,Termas,3892,20.9,2
+2025-11-04,Santiago del Estero,Quebrada de Humahuaca,4188,33.0,3
+2025-05-26,Tucumán,Tren a las Nubes,6272,31.0,3
+2025-02-13,Salta,Ruta del Adobe,987,10.9,4
+2025-04-03,Salta,Quebrada de Humahuaca,1483,12.1,3
+2025-06-14,Tucumán,Valles Calchaquíes,8355,34.9,7
+2025-09-19,Jujuy,Ruta del Adobe,1450,34.7,5
+2025-09-19,Tucumán,Tren a las Nubes,5145,27.7,8
+2025-08-15,Jujuy,Tren a las Nubes,4911,24.6,8
+2025-10-14,Tucumán,Parque Nacional Los Cardones,3323,18.0,8
+2025-11-11,Tucumán,Ruta del Adobe,152,30.9,2
+2025-10-06,Santiago del Estero,Quebrada de Humahuaca,7477,29.2,9
+2025-02-21,Salta,Ruta del Adobe,5249,11.0,2
+2025-09-17,Tucumán,Valles Calchaquíes,4377,24.4,3
+2025-01-28,Tucumán,Termas,7736,13.3,2
+2025-09-13,Salta,Quebrada de Humahuaca,6345,32.2,9
+2025-10-27,Santiago del Estero,Ruta del Adobe,9967,15.0,6
+2025-04-17,Salta,Valles Calchaquíes,5362,28.2,5
+2025-03-05,Catamarca,Ruta del Adobe,1052,18.8,4
+2025-04-24,Santiago del Estero,Quebrada de Humahuaca,3855,28.2,5
+2025-08-01,Catamarca,Ruta del Adobe,8422,22.4,1
+2025-02-16,Jujuy,Quebrada de Humahuaca,1838,33.0,3
+2025-04-10,Tucumán,Ruta del Adobe,9514,33.4,7
+2025-05-14,Jujuy,Tren a las Nubes,9159,15.3,10
+2025-05-08,Catamarca,Parque Nacional Los Cardones,4592,16.0,10
+2025-12-24,Santiago del Estero,Ruta del Adobe,6890,24.1,1
+2025-09-22,Tucumán,Tren a las Nubes,4610,10.2,9
+2025-08-23,Santiago del Estero,Tren a las Nubes,406,11.5,9
+2025-12-09,Santiago del Estero,Tren a las Nubes,2446,29.6,4
+2025-11-08,Catamarca,Termas,7960,25.3,8
+2025-05-25,Santiago del Estero,Quebrada de Humahuaca,9738,20.7,1
+2025-04-17,Catamarca,Tren a las Nubes,5259,28.2,1
+2025-11-14,Salta,Termas,1003,11.1,7
+2025-04-22,Santiago del Estero,Parque Nacional Los Cardones,4868,17.1,6
+2025-01-02,Santiago del Estero,Valles Calchaquíes,577,25.4,8
+2025-11-08,Jujuy,Valles Calchaquíes,2495,12.5,4
+2025-04-12,Catamarca,Parque Nacional Los Cardones,2386,21.2,4
+2025-02-21,Catamarca,Valles Calchaquíes,1557,22.5,9
+2025-03-21,Catamarca,Termas,8646,19.5,2
+2025-03-12,Santiago del Estero,Ruta del Adobe,1362,10.4,5
+2025-02-16,Tucumán,Tren a las Nubes,1602,32.9,2
+2025-09-24,Salta,Quebrada de Humahuaca,825,21.5,1
+2025-03-17,Salta,Ruta del Adobe,172,32.1,3
+2025-01-13,Jujuy,Parque Nacional Los Cardones,9603,13.3,5
+2025-01-13,Tucumán,Valles Calchaquíes,8318,16.0,7
+2025-08-07,Salta,Termas,3359,24.2,7
+2025-12-09,Santiago del Estero,Valles Calchaquíes,2243,15.3,6
+2025-10-19,Tucumán,Parque Nacional Los Cardones,2895,25.9,2
+2025-08-06,Salta,Valles Calchaquíes,4878,21.4,10
+2025-08-02,Tucumán,Valles Calchaquíes,3359,25.4,10
+2025-03-18,Salta,Termas,2494,30.1,9
+2025-10-02,Santiago del Estero,Ruta del Adobe,3642,24.6,4
+2025-12-10,Santiago del Estero,Ruta del Adobe,4293,18.6,6
+2025-03-17,Catamarca,Tren a las Nubes,1386,23.3,4
+2025-07-14,Tucumán,Tren a las Nubes,6384,12.8,7
+2025-04-09,Jujuy,Tren a las Nubes,7790,23.3,9
+2025-02-10,Santiago del Estero,Valles Calchaquíes,8169,24.6,2
+2025-10-24,Jujuy,Ruta del Adobe,7255,14.1,6
+2025-11-09,Santiago del Estero,Ruta del Adobe,9108,13.8,1
+2025-11-15,Tucumán,Parque Nacional Los Cardones,9094,27.8,1
+2025-07-11,Santiago del Estero,Quebrada de Humahuaca,2654,24.4,4
+2025-05-11,Santiago del Estero,Parque Nacional Los Cardones,6541,15.3,10
+2025-06-20,Tucumán,Quebrada de Humahuaca,3282,32.0,7
+2025-11-27,Catamarca,Termas,5604,13.1,9
+2025-10-03,Jujuy,Tren a las Nubes,5943,23.6,10
+2025-05-12,Jujuy,Ruta del Adobe,5319,26.8,1
+2025-11-26,Santiago del Estero,Valles Calchaquíes,6957,29.4,4
+2025-05-12,Catamarca,Tren a las Nubes,3578,28.2,9
+2025-01-01,Santiago del Estero,Parque Nacional Los Cardones,9649,26.7,1
+2025-05-15,Salta,Termas,4056,28.5,1
+2025-10-10,Tucumán,Parque Nacional Los Cardones,6759,23.3,5
+2025-01-10,Tucumán,Quebrada de Humahuaca,2568,20.8,5
+2025-05-27,Jujuy,Valles Calchaquíes,6955,21.7,4
+2025-01-16,Salta,Valles Calchaquíes,3726,17.1,6
+2025-07-28,Santiago del Estero,Valles Calchaquíes,3545,12.6,8
+2025-04-02,Catamarca,Tren a las Nubes,6489,10.1,3
+2025-02-14,Catamarca,Tren a las Nubes,9325,27.0,1
+2025-08-07,Catamarca,Termas,1693,11.8,1
+2025-01-27,Santiago del Estero,Quebrada de Humahuaca,5367,12.4,4
+2025-06-22,Jujuy,Valles Calchaquíes,7252,15.8,4
+2025-07-28,Jujuy,Parque Nacional Los Cardones,3594,16.5,5
+2025-12-28,Jujuy,Termas,4390,17.5,3
+2025-07-25,Salta,Termas,6021,22.0,5
+2025-05-10,Tucumán,Termas,8982,14.8,7
+2025-09-20,Tucumán,Parque Nacional Los Cardones,7346,29.3,7
+2025-06-11,Jujuy,Ruta del Adobe,8705,11.5,4
+2025-04-03,Jujuy,Parque Nacional Los Cardones,4677,26.7,8
+2025-10-01,Salta,Tren a las Nubes,1991,15.2,6
+2025-07-25,Tucumán,Termas,3798,24.2,10
+2025-05-04,Tucumán,Tren a las Nubes,4405,19.3,4
+2025-04-18,Santiago del Estero,Valles Calchaquíes,962,11.7,7
+2025-03-17,Jujuy,Ruta del Adobe,9950,16.1,3
+2025-04-20,Salta,Termas,8793,11.1,3
+2025-03-26,Salta,Termas,8752,29.5,4
+2025-10-15,Tucumán,Quebrada de Humahuaca,7203,32.5,8
+2025-07-14,Salta,Valles Calchaquíes,5352,24.5,2
+2025-03-13,Salta,Quebrada de Humahuaca,1238,19.2,7
+2025-12-24,Catamarca,Valles Calchaquíes,8543,28.6,2
+2025-11-11,Santiago del Estero,Termas,376,33.1,1
+2025-07-13,Jujuy,Tren a las Nubes,4910,30.9,3
+2025-11-02,Santiago del Estero,Ruta del Adobe,8121,19.5,1
+2025-06-02,Salta,Valles Calchaquíes,694,26.3,3
+2025-07-19,Santiago del Estero,Valles Calchaquíes,2015,24.3,1
+2025-05-28,Tucumán,Valles Calchaquíes,5307,12.3,9
+2025-07-28,Tucumán,Valles Calchaquíes,119,32.9,10
+2025-02-26,Tucumán,Termas,3793,29.1,6
+2025-12-08,Jujuy,Termas,5144,12.5,9
+2025-12-09,Salta,Termas,2875,14.3,8
+2025-10-06,Catamarca,Quebrada de Humahuaca,8840,27.9,2
+2025-03-13,Catamarca,Quebrada de Humahuaca,3524,26.3,1
+2025-08-06,Salta,Termas,2900,34.8,4
+2025-03-25,Santiago del Estero,Parque Nacional Los Cardones,8462,21.5,2
+2025-10-16,Santiago del Estero,Quebrada de Humahuaca,9527,15.3,1
+2025-12-25,Tucumán,Valles Calchaquíes,4858,13.8,7
+2025-04-10,Santiago del Estero,Quebrada de Humahuaca,9793,27.1,9
+2025-07-27,Tucumán,Valles Calchaquíes,9985,34.1,9
+2025-08-06,Tucumán,Termas,4373,24.2,8
+2025-06-01,Salta,Termas,7162,15.0,7
+2025-05-18,Santiago del Estero,Parque Nacional Los Cardones,3281,23.6,9
+2025-01-15,Tucumán,Parque Nacional Los Cardones,3351,12.7,2
+2025-05-05,Salta,Valles Calchaquíes,1128,15.7,5
+2025-08-27,Santiago del Estero,Parque Nacional Los Cardones,5916,28.0,7
+2025-06-24,Salta,Valles Calchaquíes,2195,12.3,5
+2025-10-06,Jujuy,Parque Nacional Los Cardones,6085,25.1,4
+2025-11-26,Santiago del Estero,Quebrada de Humahuaca,4332,29.3,1
+2025-12-17,Jujuy,Termas,135,18.4,10
+2025-09-27,Catamarca,Termas,8938,34.1,4
+2025-02-09,Jujuy,Parque Nacional Los Cardones,1072,11.2,10
+2025-12-26,Catamarca,Tren a las Nubes,2503,30.7,4
+2025-11-20,Jujuy,Valles Calchaquíes,2919,31.1,8
+2025-10-16,Santiago del Estero,Valles Calchaquíes,153,26.1,4
+2025-08-16,Catamarca,Tren a las Nubes,124,19.3,4
+2025-04-27,Salta,Quebrada de Humahuaca,6948,17.5,9
+2025-03-14,Salta,Quebrada de Humahuaca,4797,30.8,3
+2025-03-09,Santiago del Estero,Termas,973,21.3,9
+2025-02-27,Catamarca,Tren a las Nubes,6178,18.5,8
+2025-04-21,Catamarca,Tren a las Nubes,2895,20.8,4
+2025-08-10,Santiago del Estero,Parque Nacional Los Cardones,9514,14.1,5
+2025-01-25,Catamarca,Ruta del Adobe,6079,26.2,4
+2025-01-20,Salta,Parque Nacional Los Cardones,142,29.3,9
+2025-11-11,Salta,Valles Calchaquíes,6250,32.4,2
+2025-08-20,Tucumán,Ruta del Adobe,4430,16.3,9
+2025-02-28,Catamarca,Valles Calchaquíes,5740,33.6,6
+2025-01-18,Catamarca,Valles Calchaquíes,7017,23.4,10
+2025-11-15,Salta,Termas,7497,32.0,7
+2025-08-15,Jujuy,Termas,8533,15.6,2
+2025-09-19,Santiago del Estero,Parque Nacional Los Cardones,4992,12.7,1
+2025-07-09,Jujuy,Parque Nacional Los Cardones,6761,19.8,5
+2025-12-05,Santiago del Estero,Ruta del Adobe,1154,28.9,6
+2025-07-15,Catamarca,Quebrada de Humahuaca,1177,13.5,7
+2025-05-20,Tucumán,Parque Nacional Los Cardones,8157,21.0,8
+2025-09-12,Salta,Quebrada de Humahuaca,8905,16.2,6
+2025-07-20,Santiago del Estero,Valles Calchaquíes,5021,12.3,8
+2025-11-25,Santiago del Estero,Valles Calchaquíes,2300,10.6,8
+2025-08-02,Tucumán,Tren a las Nubes,2132,13.0,5
+2025-02-25,Tucumán,Tren a las Nubes,8568,12.3,7
+2025-07-01,Santiago del Estero,Termas,8112,11.3,2
+2025-08-20,Catamarca,Valles Calchaquíes,5706,16.2,1
+2025-07-15,Salta,Parque Nacional Los Cardones,1540,34.5,9
+2025-06-20,Jujuy,Termas,989,21.0,4
+2025-08-08,Salta,Parque Nacional Los Cardones,6686,23.9,5
+2025-10-27,Salta,Termas,1682,31.1,7
+2025-01-22,Catamarca,Valles Calchaquíes,3824,30.9,4
+2025-07-28,Salta,Parque Nacional Los Cardones,4694,25.8,10
+2025-12-25,Catamarca,Parque Nacional Los Cardones,5028,23.4,6
+2025-06-07,Santiago del Estero,Tren a las Nubes,6988,18.8,1
+2025-04-03,Catamarca,Tren a las Nubes,546,27.4,5
+2025-01-21,Catamarca,Termas,4843,17.2,3
+2025-01-05,Jujuy,Tren a las Nubes,5117,12.5,6
+2025-11-11,Catamarca,Quebrada de Humahuaca,2046,30.1,7
+2025-08-09,Santiago del Estero,Tren a las Nubes,4171,20.1,5
+2025-05-18,Catamarca,Quebrada de Humahuaca,7189,23.5,1
+2025-02-19,Jujuy,Ruta del Adobe,231,26.6,1
+2025-04-21,Jujuy,Parque Nacional Los Cardones,1331,10.5,5
+2025-05-22,Catamarca,Ruta del Adobe,1868,27.8,3
+2025-04-12,Salta,Valles Calchaquíes,68,24.3,2
+2025-01-21,Catamarca,Valles Calchaquíes,291,12.9,2
+2025-09-05,Catamarca,Ruta del Adobe,8304,24.2,10
+2025-05-04,Catamarca,Quebrada de Humahuaca,6221,31.5,9
+2025-07-13,Catamarca,Termas,8464,15.8,8
+2025-09-02,Tucumán,Tren a las Nubes,4749,22.1,6
+2025-03-16,Tucumán,Ruta del Adobe,1672,29.5,9
+2025-04-21,Jujuy,Ruta del Adobe,4534,24.7,1
+2025-04-17,Santiago del Estero,Valles Calchaquíes,3004,32.8,9
+2025-01-19,Jujuy,Tren a las Nubes,4489,19.5,3
+2025-04-26,Catamarca,Quebrada de Humahuaca,5415,22.9,1
+2025-08-22,Salta,Tren a las Nubes,941,27.8,10
+2025-09-24,Jujuy,Parque Nacional Los Cardones,6679,34.5,10
+2025-06-10,Santiago del Estero,Ruta del Adobe,5521,22.4,2
+2025-10-19,Catamarca,Ruta del Adobe,9704,28.3,4
+2025-04-15,Salta,Quebrada de Humahuaca,177,13.9,3
+2025-05-18,Tucumán,Tren a las Nubes,2856,34.2,1
+2025-04-08,Tucumán,Tren a las Nubes,1492,20.2,9
+2025-11-21,Salta,Termas,2630,14.7,1
+2025-04-26,Santiago del Estero,Valles Calchaquíes,3273,18.1,2
+2025-12-27,Salta,Parque Nacional Los Cardones,3338,12.7,6
+2025-12-02,Jujuy,Ruta del Adobe,4683,13.0,9
+2025-02-12,Tucumán,Ruta del Adobe,8273,28.7,5
+2025-10-25,Tucumán,Tren a las Nubes,7382,14.0,3
+2025-12-23,Salta,Quebrada de Humahuaca,5223,24.9,6
+2025-10-14,Salta,Tren a las Nubes,3692,17.6,3
+2025-06-08,Salta,Tren a las Nubes,2500,11.6,6
+2025-04-07,Tucumán,Tren a las Nubes,6873,20.3,4
+2025-02-14,Tucumán,Parque Nacional Los Cardones,5383,10.5,4
+2025-04-25,Jujuy,Valles Calchaquíes,701,20.4,4
+2025-10-03,Jujuy,Quebrada de Humahuaca,9425,21.0,9
+2025-03-23,Jujuy,Valles Calchaquíes,2997,17.0,3
+2025-12-12,Salta,Valles Calchaquíes,2636,14.8,9
+2025-10-02,Salta,Parque Nacional Los Cardones,4008,26.1,7
+2025-03-26,Salta,Quebrada de Humahuaca,5077,18.2,6
+2025-11-10,Santiago del Estero,Tren a las Nubes,8797,24.1,6
+2025-06-05,Jujuy,Termas,9186,27.2,7
+2025-09-10,Santiago del Estero,Valles Calchaquíes,4715,10.2,3
+2025-07-28,Santiago del Estero,Valles Calchaquíes,9960,22.5,7
+2025-04-17,Tucumán,Valles Calchaquíes,1141,31.7,2
+2025-12-20,Tucumán,Ruta del Adobe,9012,28.3,10
+2025-08-26,Catamarca,Tren a las Nubes,8277,23.0,4
+2025-08-16,Tucumán,Termas,2754,30.2,4
+2025-10-09,Catamarca,Ruta del Adobe,7454,22.6,2
+2025-09-27,Tucumán,Ruta del Adobe,5395,21.7,6
+2025-12-06,Jujuy,Parque Nacional Los Cardones,8487,29.1,1
+2025-02-28,Tucumán,Valles Calchaquíes,8849,26.9,3
+2025-06-26,Salta,Valles Calchaquíes,1382,34.6,7
+2025-04-20,Salta,Ruta del Adobe,316,22.6,7
+2025-05-03,Catamarca,Termas,5995,26.8,10
+2025-11-13,Santiago del Estero,Parque Nacional Los Cardones,7088,24.9,9
+2025-12-09,Catamarca,Parque Nacional Los Cardones,2544,21.8,10
+2025-03-21,Salta,Ruta del Adobe,5942,21.1,2
+2025-03-23,Santiago del Estero,Valles Calchaquíes,3447,11.4,1
+2025-05-13,Tucumán,Parque Nacional Los Cardones,6928,12.0,8
+2025-08-01,Tucumán,Parque Nacional Los Cardones,6298,21.0,8
+2025-05-09,Catamarca,Quebrada de Humahuaca,326,15.4,3
+2025-09-11,Catamarca,Tren a las Nubes,148,13.0,8
+2025-05-14,Catamarca,Valles Calchaquíes,709,10.9,10
+2025-05-16,Tucumán,Valles Calchaquíes,4208,20.4,7
+2025-02-07,Santiago del Estero,Quebrada de Humahuaca,2001,20.7,5
+2025-04-21,Santiago del Estero,Termas,9518,12.8,2
+2025-04-13,Tucumán,Termas,2972,13.7,5
+2025-05-10,Catamarca,Valles Calchaquíes,6046,16.9,8
+2025-08-06,Jujuy,Parque Nacional Los Cardones,68,26.4,8
+2025-07-07,Santiago del Estero,Parque Nacional Los Cardones,6275,15.7,1
+2025-05-28,Tucumán,Ruta del Adobe,8645,24.6,4
+2025-11-28,Catamarca,Ruta del Adobe,7384,34.6,5
+2025-03-25,Jujuy,Tren a las Nubes,7484,10.7,4
+2025-04-14,Salta,Quebrada de Humahuaca,6376,19.0,2
+2025-03-24,Jujuy,Parque Nacional Los Cardones,671,34.0,9
+2025-02-23,Tucumán,Quebrada de Humahuaca,1973,22.6,3
+2025-11-13,Tucumán,Tren a las Nubes,7519,17.1,4
+2025-10-21,Salta,Termas,9488,28.8,4
+2025-07-06,Salta,Tren a las Nubes,2497,29.7,5
+2025-02-18,Catamarca,Valles Calchaquíes,3302,31.9,1
+2025-07-11,Salta,Valles Calchaquíes,7353,34.7,6
+2025-11-02,Tucumán,Parque Nacional Los Cardones,5125,28.7,9
+2025-10-20,Jujuy,Ruta del Adobe,9496,11.0,6
+2025-09-16,Salta,Tren a las Nubes,5321,29.9,9
+2025-07-06,Catamarca,Tren a las Nubes,3668,18.3,6
+2025-04-22,Santiago del Estero,Quebrada de Humahuaca,2042,25.9,1
+2025-11-15,Santiago del Estero,Termas,4659,19.4,7
+2025-05-07,Jujuy,Termas,176,13.0,3
+2025-10-07,Tucumán,Termas,4431,34.8,10
+2025-06-14,Tucumán,Parque Nacional Los Cardones,8202,20.8,5
+2025-09-26,Tucumán,Tren a las Nubes,6303,15.1,4
+2025-12-25,Santiago del Estero,Termas,646,13.9,3
+2025-06-25,Catamarca,Tren a las Nubes,8577,23.3,5
+2025-06-01,Catamarca,Quebrada de Humahuaca,6540,34.9,3
+2025-11-10,Santiago del Estero,Quebrada de Humahuaca,253,32.9,4
+2025-04-25,Catamarca,Termas,1519,18.3,9
+2025-05-14,Catamarca,Tren a las Nubes,2766,15.4,4
+2025-04-21,Salta,Parque Nacional Los Cardones,6508,28.1,10
+2025-03-26,Jujuy,Termas,3724,23.7,8
+2025-07-05,Tucumán,Ruta del Adobe,6657,26.3,8
+2025-06-04,Catamarca,Ruta del Adobe,1999,19.9,8
+2025-12-27,Santiago del Estero,Termas,239,31.6,7
+2025-04-26,Catamarca,Quebrada de Humahuaca,9616,32.4,4
+2025-05-01,Santiago del Estero,Parque Nacional Los Cardones,6563,29.3,7
+2025-01-12,Jujuy,Ruta del Adobe,6047,28.2,3
+2025-01-12,Salta,Quebrada de Humahuaca,156,17.7,4
+2025-12-02,Salta,Valles Calchaquíes,1889,29.6,9
+2025-12-12,Salta,Valles Calchaquíes,7645,29.5,1
+2025-01-09,Jujuy,Ruta del Adobe,9908,15.9,4
+2025-03-14,Santiago del Estero,Parque Nacional Los Cardones,9715,31.9,8
+2025-04-12,Jujuy,Parque Nacional Los Cardones,337,13.7,8
+2025-09-13,Catamarca,Termas,4886,20.9,1
+2025-11-07,Santiago del Estero,Ruta del Adobe,6682,20.7,6
+2025-12-03,Salta,Valles Calchaquíes,8739,30.8,9
+2025-09-25,Santiago del Estero,Tren a las Nubes,6435,25.5,4
+2025-09-09,Jujuy,Termas,2041,10.9,2
+2025-03-20,Catamarca,Quebrada de Humahuaca,4400,26.0,4
+2025-12-10,Santiago del Estero,Termas,4668,27.3,6
+2025-06-22,Jujuy,Ruta del Adobe,7848,19.7,5
+2025-12-12,Salta,Parque Nacional Los Cardones,2001,34.8,10
+2025-03-07,Catamarca,Tren a las Nubes,2284,32.0,2
+2025-07-06,Salta,Termas,90,31.7,2
+2025-12-04,Salta,Tren a las Nubes,6066,27.5,7
+2025-03-23,Santiago del Estero,Valles Calchaquíes,7463,13.5,5
+2025-01-10,Tucumán,Valles Calchaquíes,2887,16.1,4
+2025-04-04,Santiago del Estero,Parque Nacional Los Cardones,4016,24.3,6
+2025-08-11,Santiago del Estero,Parque Nacional Los Cardones,8282,28.8,3
+2025-06-18,Tucumán,Parque Nacional Los Cardones,8504,17.1,10
+2025-10-14,Jujuy,Ruta del Adobe,677,24.0,8
+2025-02-17,Santiago del Estero,Tren a las Nubes,5022,23.3,2
+2025-11-16,Tucumán,Termas,4738,11.5,7
+2025-04-11,Tucumán,Tren a las Nubes,926,10.7,7
+2025-03-18,Santiago del Estero,Parque Nacional Los Cardones,5664,29.6,3
+2025-09-09,Salta,Tren a las Nubes,4820,16.6,4
+2025-01-24,Santiago del Estero,Quebrada de Humahuaca,7007,19.6,8
+2025-05-09,Catamarca,Termas,7659,13.8,3
+2025-02-09,Santiago del Estero,Termas,699,13.7,9
+2025-10-21,Catamarca,Quebrada de Humahuaca,6275,22.5,6
+2025-05-20,Jujuy,Parque Nacional Los Cardones,7039,27.2,5
+2025-01-14,Catamarca,Termas,7821,11.4,4
+2025-11-07,Santiago del Estero,Tren a las Nubes,7559,13.4,2
+2025-12-02,Catamarca,Ruta del Adobe,9742,27.3,8
+2025-09-12,Catamarca,Valles Calchaquíes,1027,29.0,6
+2025-11-12,Jujuy,Tren a las Nubes,2936,15.3,2
+2025-04-18,Jujuy,Termas,4107,32.7,6
+2025-07-19,Jujuy,Parque Nacional Los Cardones,6364,32.6,8
+2025-12-25,Salta,Quebrada de Humahuaca,8048,27.0,8
+2025-11-05,Catamarca,Valles Calchaquíes,8567,14.8,9
+2025-04-06,Tucumán,Valles Calchaquíes,3337,14.8,1
+2025-01-25,Tucumán,Quebrada de Humahuaca,1116,18.5,4
+2025-11-05,Tucumán,Parque Nacional Los Cardones,9325,30.6,5
+2025-11-04,Catamarca,Valles Calchaquíes,4479,23.7,2
+2025-08-27,Salta,Ruta del Adobe,9285,32.5,4
+2025-04-22,Salta,Termas,6499,24.6,6
+2025-03-07,Tucumán,Ruta del Adobe,671,34.2,9
+2025-07-12,Tucumán,Quebrada de Humahuaca,9448,18.3,6
+2025-01-03,Catamarca,Parque Nacional Los Cardones,5965,28.7,3
+2025-01-10,Salta,Tren a las Nubes,316,11.1,6
+2025-10-06,Catamarca,Tren a las Nubes,3250,17.9,7
+2025-05-26,Salta,Ruta del Adobe,871,10.1,7
+2025-03-13,Tucumán,Valles Calchaquíes,9900,22.2,10
+2025-02-01,Santiago del Estero,Ruta del Adobe,9534,21.0,5
+2025-06-13,Jujuy,Quebrada de Humahuaca,9645,22.1,8
+2025-05-15,Santiago del Estero,Parque Nacional Los Cardones,1331,23.7,6
+2025-02-17,Santiago del Estero,Quebrada de Humahuaca,2283,24.0,8
+2025-09-22,Jujuy,Termas,6134,16.3,4
+2025-12-18,Tucumán,Termas,3298,11.3,8
+2025-08-23,Jujuy,Valles Calchaquíes,7704,15.2,7
+2025-10-02,Tucumán,Ruta del Adobe,4210,14.4,6
+2025-12-16,Salta,Ruta del Adobe,3283,10.7,10
+2025-04-15,Tucumán,Termas,5469,29.8,9
+2025-12-14,Salta,Parque Nacional Los Cardones,8360,25.5,8
+2025-11-01,Jujuy,Parque Nacional Los Cardones,4059,14.2,8
+2025-05-28,Salta,Tren a las Nubes,962,10.8,9
+2025-07-18,Jujuy,Tren a las Nubes,2917,34.5,6
+2025-01-07,Salta,Parque Nacional Los Cardones,5899,33.7,10
+2025-08-05,Salta,Termas,4281,22.8,10
+2025-06-08,Catamarca,Valles Calchaquíes,9970,21.4,7
+2025-10-03,Salta,Ruta del Adobe,2874,20.0,2
+2025-08-19,Santiago del Estero,Tren a las Nubes,4655,19.1,4
+2025-03-16,Tucumán,Quebrada de Humahuaca,2151,31.9,8
+2025-08-16,Catamarca,Ruta del Adobe,9655,16.9,5
+2025-02-14,Tucumán,Tren a las Nubes,1292,29.6,2
+2025-08-25,Catamarca,Tren a las Nubes,136,16.7,2
+2025-06-14,Salta,Termas,1302,20.5,2
+2025-11-26,Santiago del Estero,Quebrada de Humahuaca,3572,29.8,10
+2025-09-24,Santiago del Estero,Tren a las Nubes,5215,30.8,3
+2025-05-25,Tucumán,Termas,3626,27.0,5
+2025-05-02,Tucumán,Valles Calchaquíes,4177,30.0,7
+2025-11-12,Salta,Quebrada de Humahuaca,8604,16.2,5
+2025-03-28,Santiago del Estero,Ruta del Adobe,3366,22.1,6
+2025-12-14,Tucumán,Parque Nacional Los Cardones,6237,22.0,6
+2025-11-09,Jujuy,Valles Calchaquíes,2830,32.9,4
+2025-07-17,Salta,Tren a las Nubes,192,25.7,5
+2025-02-05,Jujuy,Termas,5667,30.8,8
+2025-05-27,Jujuy,Tren a las Nubes,5516,19.9,7
+2025-06-03,Santiago del Estero,Tren a las Nubes,8869,10.8,4
+2025-09-13,Jujuy,Ruta del Adobe,494,23.3,5
+2025-10-20,Tucumán,Quebrada de Humahuaca,3707,22.5,7
+2025-08-07,Catamarca,Ruta del Adobe,5386,34.5,2
+2025-11-08,Catamarca,Termas,4658,25.2,8
+2025-03-17,Jujuy,Quebrada de Humahuaca,5856,32.3,9
+2025-06-09,Jujuy,Tren a las Nubes,1397,27.0,5
+2025-09-23,Santiago del Estero,Quebrada de Humahuaca,3693,16.8,2
+2025-07-12,Jujuy,Quebrada de Humahuaca,1532,20.6,3
+2025-01-22,Jujuy,Valles Calchaquíes,6621,33.3,6
+2025-09-13,Tucumán,Parque Nacional Los Cardones,6419,27.0,8
+2025-04-07,Santiago del Estero,Tren a las Nubes,6577,18.1,10
+2025-03-18,Jujuy,Parque Nacional Los Cardones,5315,24.4,2
+2025-03-01,Tucumán,Quebrada de Humahuaca,9685,31.7,5
+2025-08-14,Tucumán,Parque Nacional Los Cardones,5672,30.8,2
+2025-09-08,Salta,Quebrada de Humahuaca,457,29.6,4
+2025-12-18,Jujuy,Valles Calchaquíes,99,12.3,3
+2025-05-20,Salta,Ruta del Adobe,5528,32.5,8
+2025-09-01,Salta,Valles Calchaquíes,5693,11.8,3
+2025-02-10,Salta,Termas,5482,20.9,8

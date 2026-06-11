@@ -1,0 +1,2001 @@
+cliente_id,provincia,consumo_kwh,paneles_solares,tarifa,mes
+1,Catamarca,1396,6,industrial,1
+2,Tucumán,1365,7,industrial,3
+3,Tucumán,650,9,industrial,6
+4,Tucumán,736,13,industrial,11
+5,Catamarca,209,11,residencial,7
+6,Salta,503,12,industrial,12
+7,Santiago del Estero,753,4,industrial,7
+8,Santiago del Estero,951,20,comercial,3
+9,Santiago del Estero,863,4,comercial,3
+10,Salta,748,10,residencial,6
+11,Jujuy,239,1,industrial,7
+12,Salta,422,0,residencial,4
+13,Santiago del Estero,486,12,comercial,12
+14,Jujuy,612,11,residencial,11
+15,Tucumán,1490,19,industrial,1
+16,Tucumán,617,17,industrial,4
+17,Catamarca,1436,0,comercial,9
+18,Salta,563,20,residencial,1
+19,Jujuy,1103,19,residencial,6
+20,Jujuy,1168,1,comercial,5
+21,Catamarca,955,6,comercial,11
+22,Santiago del Estero,881,3,residencial,12
+23,Catamarca,611,3,industrial,4
+24,Santiago del Estero,828,20,comercial,8
+25,Tucumán,361,15,comercial,5
+26,Salta,873,1,comercial,5
+27,Jujuy,1281,2,comercial,11
+28,Salta,851,16,industrial,1
+29,Salta,326,9,industrial,10
+30,Jujuy,1392,0,residencial,11
+31,Tucumán,1419,16,residencial,10
+32,Jujuy,1048,1,industrial,1
+33,Salta,968,20,industrial,11
+34,Catamarca,1059,18,comercial,10
+35,Catamarca,468,8,comercial,11
+36,Jujuy,1470,10,industrial,12
+37,Santiago del Estero,639,20,industrial,6
+38,Catamarca,1409,7,residencial,1
+39,Tucumán,1284,13,residencial,1
+40,Tucumán,721,7,residencial,7
+41,Santiago del Estero,696,8,residencial,4
+42,Tucumán,94,11,residencial,1
+43,Tucumán,518,9,residencial,10
+44,Tucumán,1364,2,comercial,4
+45,Salta,991,17,industrial,1
+46,Catamarca,1494,18,industrial,5
+47,Jujuy,284,15,comercial,1
+48,Catamarca,666,1,industrial,4
+49,Jujuy,1274,9,comercial,7
+50,Santiago del Estero,445,10,residencial,3
+51,Santiago del Estero,568,16,comercial,2
+52,Salta,1291,19,comercial,5
+53,Jujuy,486,5,industrial,7
+54,Jujuy,712,9,residencial,12
+55,Tucumán,1080,8,comercial,1
+56,Salta,1099,19,residencial,5
+57,Salta,292,17,residencial,4
+58,Salta,835,8,comercial,5
+59,Jujuy,110,4,residencial,10
+60,Tucumán,241,8,industrial,4
+61,Tucumán,705,14,industrial,9
+62,Tucumán,761,12,residencial,11
+63,Santiago del Estero,1273,1,comercial,2
+64,Jujuy,781,17,industrial,3
+65,Jujuy,848,10,comercial,3
+66,Catamarca,953,7,comercial,8
+67,Tucumán,320,10,industrial,5
+68,Jujuy,1046,12,comercial,10
+69,Catamarca,437,18,comercial,11
+70,Jujuy,1461,12,industrial,5
+71,Santiago del Estero,382,8,residencial,10
+72,Santiago del Estero,370,16,residencial,4
+73,Tucumán,841,4,residencial,2
+74,Catamarca,807,0,comercial,6
+75,Santiago del Estero,831,2,industrial,12
+76,Jujuy,735,13,comercial,12
+77,Santiago del Estero,477,3,residencial,3
+78,Salta,1125,20,comercial,6
+79,Tucumán,1357,15,comercial,12
+80,Jujuy,749,8,comercial,5
+81,Catamarca,452,3,residencial,3
+82,Jujuy,1017,8,industrial,2
+83,Salta,173,16,industrial,8
+84,Santiago del Estero,333,4,residencial,2
+85,Jujuy,145,14,comercial,3
+86,Santiago del Estero,1118,14,comercial,12
+87,Catamarca,497,18,industrial,10
+88,Salta,856,7,comercial,10
+89,Tucumán,1204,10,residencial,6
+90,Santiago del Estero,1093,1,industrial,12
+91,Jujuy,790,10,comercial,1
+92,Tucumán,289,13,residencial,2
+93,Catamarca,1276,17,residencial,12
+94,Salta,300,12,industrial,10
+95,Santiago del Estero,355,17,residencial,1
+96,Jujuy,694,14,industrial,2
+97,Tucumán,863,18,industrial,9
+98,Salta,166,1,residencial,12
+99,Santiago del Estero,503,19,residencial,6
+100,Jujuy,900,19,residencial,3
+101,Salta,904,14,residencial,5
+102,Jujuy,798,0,residencial,7
+103,Salta,913,14,residencial,10
+104,Santiago del Estero,1377,10,comercial,5
+105,Jujuy,116,7,residencial,7
+106,Catamarca,871,0,industrial,10
+107,Jujuy,215,13,residencial,10
+108,Salta,177,14,comercial,9
+109,Tucumán,862,9,comercial,5
+110,Jujuy,366,8,comercial,11
+111,Catamarca,357,15,industrial,1
+112,Santiago del Estero,774,17,residencial,3
+113,Catamarca,733,16,industrial,9
+114,Salta,514,15,comercial,5
+115,Catamarca,380,1,comercial,4
+116,Tucumán,1213,7,residencial,5
+117,Catamarca,405,19,comercial,12
+118,Tucumán,1439,17,industrial,1
+119,Catamarca,677,3,industrial,8
+120,Santiago del Estero,477,5,comercial,9
+121,Tucumán,617,10,residencial,11
+122,Santiago del Estero,473,19,comercial,8
+123,Salta,1037,20,residencial,4
+124,Tucumán,798,15,comercial,10
+125,Tucumán,310,14,comercial,12
+126,Catamarca,328,20,comercial,10
+127,Santiago del Estero,98,10,comercial,5
+128,Catamarca,931,3,residencial,9
+129,Santiago del Estero,1318,14,industrial,1
+130,Santiago del Estero,1086,20,residencial,3
+131,Jujuy,1374,8,residencial,6
+132,Salta,84,10,comercial,3
+133,Santiago del Estero,892,2,residencial,9
+134,Santiago del Estero,1338,11,comercial,2
+135,Jujuy,354,20,industrial,2
+136,Tucumán,868,8,residencial,6
+137,Salta,912,1,residencial,1
+138,Jujuy,1230,12,comercial,1
+139,Jujuy,705,1,comercial,10
+140,Catamarca,1173,14,industrial,7
+141,Catamarca,500,3,comercial,6
+142,Jujuy,683,7,industrial,11
+143,Salta,110,4,residencial,9
+144,Santiago del Estero,470,8,industrial,7
+145,Santiago del Estero,833,3,comercial,10
+146,Salta,154,9,residencial,2
+147,Jujuy,472,5,comercial,5
+148,Catamarca,1124,8,residencial,2
+149,Jujuy,217,11,industrial,5
+150,Tucumán,943,7,comercial,7
+151,Jujuy,243,9,comercial,2
+152,Santiago del Estero,290,15,industrial,1
+153,Catamarca,806,12,comercial,9
+154,Jujuy,923,13,comercial,2
+155,Santiago del Estero,1107,10,residencial,2
+156,Santiago del Estero,569,12,residencial,10
+157,Tucumán,126,20,comercial,10
+158,Jujuy,1126,5,comercial,4
+159,Jujuy,521,1,comercial,9
+160,Salta,950,20,industrial,9
+161,Catamarca,1443,20,residencial,1
+162,Catamarca,1247,6,industrial,10
+163,Jujuy,747,11,industrial,3
+164,Santiago del Estero,1206,14,residencial,11
+165,Catamarca,1056,9,comercial,8
+166,Salta,308,3,residencial,5
+167,Catamarca,1439,19,comercial,4
+168,Jujuy,587,17,comercial,3
+169,Salta,156,1,residencial,10
+170,Catamarca,523,16,comercial,7
+171,Tucumán,945,6,industrial,6
+172,Salta,1288,8,residencial,6
+173,Tucumán,816,19,residencial,1
+174,Santiago del Estero,477,4,residencial,8
+175,Catamarca,1175,5,comercial,9
+176,Santiago del Estero,361,14,industrial,3
+177,Jujuy,474,2,industrial,11
+178,Santiago del Estero,779,11,residencial,3
+179,Jujuy,1018,4,comercial,1
+180,Santiago del Estero,521,9,comercial,1
+181,Catamarca,65,6,comercial,2
+182,Catamarca,492,15,residencial,6
+183,Salta,387,4,comercial,8
+184,Santiago del Estero,1132,17,residencial,1
+185,Tucumán,1315,19,industrial,12
+186,Catamarca,1253,0,industrial,9
+187,Santiago del Estero,921,13,industrial,1
+188,Jujuy,1043,5,residencial,2
+189,Salta,467,4,industrial,4
+190,Santiago del Estero,387,20,comercial,2
+191,Catamarca,385,17,comercial,7
+192,Jujuy,1315,11,comercial,7
+193,Salta,780,12,residencial,7
+194,Jujuy,187,19,industrial,7
+195,Catamarca,717,17,residencial,7
+196,Salta,875,19,industrial,7
+197,Jujuy,1017,13,industrial,10
+198,Salta,861,2,residencial,1
+199,Jujuy,685,3,residencial,8
+200,Salta,1362,6,comercial,5
+201,Tucumán,401,16,industrial,2
+202,Salta,299,18,industrial,10
+203,Salta,911,0,industrial,4
+204,Santiago del Estero,1007,16,industrial,12
+205,Catamarca,776,10,industrial,4
+206,Salta,928,11,industrial,12
+207,Tucumán,1002,20,residencial,8
+208,Santiago del Estero,956,6,comercial,4
+209,Catamarca,422,4,comercial,4
+210,Catamarca,867,2,comercial,11
+211,Catamarca,628,19,residencial,6
+212,Salta,1155,4,industrial,7
+213,Tucumán,1078,4,industrial,8
+214,Tucumán,666,7,industrial,8
+215,Tucumán,501,16,industrial,3
+216,Salta,208,6,comercial,12
+217,Jujuy,1158,3,industrial,7
+218,Tucumán,173,19,comercial,5
+219,Jujuy,441,3,residencial,5
+220,Catamarca,673,1,comercial,10
+221,Jujuy,945,19,residencial,2
+222,Salta,1062,12,industrial,10
+223,Santiago del Estero,191,18,comercial,9
+224,Salta,1442,7,residencial,9
+225,Santiago del Estero,324,8,industrial,5
+226,Tucumán,1336,15,industrial,7
+227,Catamarca,128,6,residencial,5
+228,Tucumán,312,12,comercial,7
+229,Jujuy,703,19,residencial,9
+230,Tucumán,666,7,comercial,4
+231,Tucumán,1416,5,residencial,5
+232,Tucumán,405,15,comercial,7
+233,Catamarca,515,8,residencial,11
+234,Jujuy,129,11,residencial,9
+235,Catamarca,134,3,comercial,10
+236,Jujuy,1456,0,industrial,11
+237,Catamarca,1021,0,comercial,1
+238,Tucumán,466,17,industrial,9
+239,Catamarca,783,15,residencial,6
+240,Salta,485,0,residencial,2
+241,Jujuy,1389,5,industrial,6
+242,Catamarca,1481,20,comercial,9
+243,Salta,320,10,comercial,1
+244,Jujuy,614,13,comercial,11
+245,Catamarca,1242,19,comercial,10
+246,Salta,1185,7,comercial,9
+247,Salta,216,20,industrial,1
+248,Tucumán,1230,19,industrial,3
+249,Salta,1297,12,industrial,2
+250,Santiago del Estero,947,5,comercial,12
+251,Salta,262,17,residencial,3
+252,Salta,967,15,comercial,9
+253,Catamarca,1026,19,industrial,8
+254,Catamarca,1253,9,comercial,2
+255,Salta,412,17,industrial,4
+256,Jujuy,1093,0,comercial,10
+257,Santiago del Estero,397,11,industrial,12
+258,Santiago del Estero,1279,18,comercial,4
+259,Jujuy,390,3,residencial,9
+260,Santiago del Estero,335,0,comercial,5
+261,Jujuy,429,2,residencial,7
+262,Catamarca,1328,16,residencial,12
+263,Santiago del Estero,1093,2,residencial,1
+264,Catamarca,346,9,residencial,8
+265,Jujuy,175,2,residencial,10
+266,Jujuy,682,3,comercial,8
+267,Jujuy,92,7,residencial,6
+268,Catamarca,1282,7,comercial,1
+269,Tucumán,994,5,comercial,3
+270,Santiago del Estero,346,3,industrial,6
+271,Santiago del Estero,1337,7,comercial,5
+272,Santiago del Estero,1272,12,comercial,10
+273,Santiago del Estero,578,4,industrial,7
+274,Salta,641,1,comercial,4
+275,Catamarca,877,1,comercial,3
+276,Salta,758,9,residencial,10
+277,Catamarca,1481,7,residencial,8
+278,Salta,1425,19,comercial,6
+279,Santiago del Estero,1301,2,residencial,9
+280,Tucumán,1252,4,residencial,2
+281,Santiago del Estero,209,5,residencial,6
+282,Catamarca,809,9,industrial,12
+283,Jujuy,1136,0,industrial,9
+284,Jujuy,428,2,industrial,5
+285,Salta,276,11,residencial,5
+286,Salta,285,9,residencial,5
+287,Salta,1156,14,industrial,5
+288,Tucumán,1290,9,residencial,7
+289,Salta,1124,4,residencial,12
+290,Santiago del Estero,202,1,industrial,3
+291,Santiago del Estero,994,4,industrial,4
+292,Santiago del Estero,1068,12,comercial,12
+293,Salta,147,11,residencial,4
+294,Jujuy,276,9,residencial,4
+295,Tucumán,781,13,industrial,2
+296,Tucumán,973,12,comercial,10
+297,Tucumán,233,1,comercial,5
+298,Santiago del Estero,1300,15,residencial,10
+299,Santiago del Estero,982,3,industrial,6
+300,Jujuy,841,12,industrial,7
+301,Catamarca,162,1,comercial,4
+302,Santiago del Estero,377,18,comercial,8
+303,Salta,1062,14,residencial,3
+304,Catamarca,410,10,industrial,5
+305,Tucumán,1159,13,residencial,1
+306,Tucumán,1224,1,residencial,10
+307,Jujuy,732,0,residencial,6
+308,Catamarca,1039,13,residencial,7
+309,Salta,885,6,industrial,8
+310,Catamarca,469,17,residencial,7
+311,Jujuy,862,14,comercial,5
+312,Santiago del Estero,1158,0,residencial,6
+313,Jujuy,859,19,industrial,12
+314,Salta,1125,4,comercial,10
+315,Salta,417,2,industrial,2
+316,Salta,1335,18,comercial,8
+317,Jujuy,232,15,industrial,6
+318,Catamarca,645,17,industrial,6
+319,Salta,1009,14,industrial,4
+320,Santiago del Estero,1059,0,industrial,12
+321,Catamarca,254,18,comercial,4
+322,Salta,358,14,industrial,10
+323,Santiago del Estero,546,19,residencial,2
+324,Tucumán,468,6,residencial,4
+325,Jujuy,1301,13,industrial,2
+326,Santiago del Estero,1253,11,residencial,8
+327,Santiago del Estero,1300,7,residencial,5
+328,Tucumán,302,15,comercial,7
+329,Tucumán,874,4,industrial,12
+330,Santiago del Estero,455,11,comercial,12
+331,Catamarca,126,11,comercial,5
+332,Tucumán,249,13,comercial,6
+333,Tucumán,231,17,comercial,11
+334,Catamarca,244,14,residencial,6
+335,Salta,400,8,industrial,2
+336,Tucumán,1175,19,industrial,6
+337,Tucumán,427,4,residencial,1
+338,Catamarca,676,20,comercial,2
+339,Jujuy,1344,5,industrial,12
+340,Jujuy,1239,18,residencial,10
+341,Salta,1378,5,residencial,7
+342,Tucumán,1309,1,industrial,8
+343,Salta,352,11,industrial,7
+344,Salta,430,8,comercial,8
+345,Salta,116,15,residencial,2
+346,Catamarca,1130,9,industrial,12
+347,Santiago del Estero,224,5,comercial,7
+348,Salta,1226,17,residencial,9
+349,Catamarca,799,1,industrial,3
+350,Salta,1101,2,residencial,8
+351,Tucumán,652,17,residencial,4
+352,Jujuy,1468,3,industrial,9
+353,Salta,959,7,comercial,11
+354,Tucumán,233,10,comercial,12
+355,Tucumán,167,10,comercial,10
+356,Jujuy,1435,7,comercial,4
+357,Catamarca,1346,0,industrial,4
+358,Catamarca,1268,6,comercial,12
+359,Salta,1356,5,residencial,3
+360,Santiago del Estero,761,3,residencial,3
+361,Salta,150,12,comercial,3
+362,Santiago del Estero,149,2,comercial,2
+363,Santiago del Estero,726,10,comercial,8
+364,Jujuy,1467,13,residencial,12
+365,Salta,301,16,comercial,5
+366,Catamarca,295,3,industrial,7
+367,Salta,1227,14,comercial,4
+368,Jujuy,1380,14,residencial,1
+369,Salta,1323,17,residencial,3
+370,Salta,935,8,residencial,3
+371,Catamarca,579,9,residencial,10
+372,Jujuy,231,4,comercial,5
+373,Tucumán,1478,16,comercial,12
+374,Catamarca,238,8,comercial,9
+375,Catamarca,803,19,residencial,8
+376,Salta,577,3,industrial,5
+377,Salta,348,11,industrial,8
+378,Salta,814,15,industrial,4
+379,Tucumán,819,14,residencial,8
+380,Tucumán,276,0,comercial,5
+381,Catamarca,1289,0,industrial,8
+382,Santiago del Estero,316,13,residencial,11
+383,Salta,250,11,industrial,12
+384,Salta,567,15,comercial,8
+385,Tucumán,725,6,residencial,11
+386,Santiago del Estero,260,6,comercial,12
+387,Tucumán,1485,14,comercial,11
+388,Salta,1252,3,industrial,4
+389,Catamarca,1159,15,comercial,5
+390,Jujuy,143,10,industrial,10
+391,Tucumán,351,3,residencial,4
+392,Santiago del Estero,70,6,residencial,9
+393,Tucumán,60,4,industrial,1
+394,Catamarca,243,17,industrial,8
+395,Tucumán,965,18,comercial,12
+396,Jujuy,578,18,industrial,9
+397,Salta,290,12,residencial,8
+398,Catamarca,1039,18,industrial,4
+399,Catamarca,1392,17,industrial,3
+400,Salta,523,1,comercial,5
+401,Salta,76,19,comercial,10
+402,Catamarca,345,11,comercial,6
+403,Salta,1086,7,industrial,6
+404,Salta,1379,16,industrial,9
+405,Salta,172,20,residencial,9
+406,Salta,1154,9,comercial,2
+407,Santiago del Estero,1241,2,residencial,5
+408,Jujuy,1002,10,industrial,4
+409,Salta,612,18,comercial,4
+410,Jujuy,1237,14,residencial,5
+411,Salta,439,7,residencial,9
+412,Tucumán,1361,0,industrial,1
+413,Tucumán,523,14,industrial,2
+414,Catamarca,153,11,comercial,10
+415,Santiago del Estero,1383,7,industrial,8
+416,Salta,123,16,residencial,5
+417,Jujuy,1356,4,residencial,1
+418,Santiago del Estero,1086,3,comercial,1
+419,Jujuy,383,17,industrial,11
+420,Salta,1498,17,industrial,6
+421,Salta,85,2,comercial,3
+422,Santiago del Estero,934,5,residencial,2
+423,Catamarca,441,10,industrial,5
+424,Tucumán,765,12,industrial,11
+425,Santiago del Estero,1108,5,residencial,12
+426,Catamarca,297,7,residencial,7
+427,Salta,1146,2,industrial,1
+428,Tucumán,406,16,industrial,7
+429,Tucumán,759,0,comercial,12
+430,Santiago del Estero,690,13,comercial,11
+431,Jujuy,1488,6,residencial,8
+432,Salta,1437,0,comercial,7
+433,Jujuy,1053,17,residencial,9
+434,Catamarca,1278,2,residencial,11
+435,Jujuy,361,13,industrial,8
+436,Tucumán,1047,14,comercial,4
+437,Catamarca,1480,8,residencial,1
+438,Salta,483,14,industrial,6
+439,Tucumán,1299,5,residencial,9
+440,Jujuy,1275,9,residencial,8
+441,Catamarca,895,12,industrial,1
+442,Catamarca,1489,16,residencial,9
+443,Santiago del Estero,401,17,residencial,3
+444,Tucumán,225,13,residencial,8
+445,Tucumán,601,1,residencial,7
+446,Santiago del Estero,1026,7,residencial,11
+447,Santiago del Estero,646,9,comercial,5
+448,Catamarca,238,14,comercial,8
+449,Catamarca,833,1,industrial,4
+450,Catamarca,480,6,residencial,12
+451,Catamarca,110,9,comercial,7
+452,Tucumán,671,7,industrial,10
+453,Salta,436,16,industrial,10
+454,Jujuy,710,13,industrial,4
+455,Salta,1384,9,comercial,7
+456,Jujuy,837,3,comercial,3
+457,Catamarca,484,13,residencial,2
+458,Jujuy,434,14,comercial,1
+459,Jujuy,756,17,industrial,10
+460,Tucumán,1295,13,residencial,2
+461,Santiago del Estero,1463,18,residencial,11
+462,Tucumán,50,18,residencial,10
+463,Santiago del Estero,1449,17,comercial,6
+464,Jujuy,1007,13,residencial,2
+465,Catamarca,1151,6,comercial,3
+466,Jujuy,1370,16,residencial,5
+467,Salta,1154,0,residencial,1
+468,Santiago del Estero,818,3,residencial,7
+469,Catamarca,1306,15,industrial,5
+470,Catamarca,933,10,comercial,5
+471,Tucumán,1386,6,residencial,6
+472,Catamarca,958,20,residencial,2
+473,Catamarca,525,0,industrial,11
+474,Salta,1040,13,industrial,5
+475,Tucumán,568,1,industrial,10
+476,Catamarca,494,14,industrial,1
+477,Santiago del Estero,818,20,residencial,8
+478,Santiago del Estero,1170,11,industrial,3
+479,Salta,1082,20,comercial,9
+480,Santiago del Estero,585,19,industrial,3
+481,Salta,1067,11,comercial,7
+482,Jujuy,652,8,industrial,3
+483,Santiago del Estero,139,12,comercial,7
+484,Tucumán,1493,18,industrial,7
+485,Tucumán,81,19,residencial,12
+486,Santiago del Estero,170,6,industrial,7
+487,Jujuy,497,7,comercial,9
+488,Tucumán,1197,15,residencial,1
+489,Jujuy,740,14,residencial,1
+490,Jujuy,173,0,industrial,4
+491,Salta,904,20,comercial,3
+492,Salta,1261,19,comercial,6
+493,Tucumán,564,8,comercial,2
+494,Tucumán,1343,1,industrial,10
+495,Jujuy,921,6,industrial,2
+496,Tucumán,1274,20,residencial,5
+497,Salta,1269,5,comercial,12
+498,Santiago del Estero,589,14,comercial,7
+499,Jujuy,882,19,comercial,8
+500,Catamarca,1310,6,residencial,3
+501,Salta,259,0,industrial,4
+502,Catamarca,490,14,residencial,5
+503,Catamarca,245,15,comercial,2
+504,Salta,1482,3,comercial,8
+505,Tucumán,1400,19,residencial,8
+506,Tucumán,520,0,residencial,9
+507,Jujuy,1131,8,residencial,4
+508,Jujuy,242,20,industrial,5
+509,Tucumán,561,19,residencial,2
+510,Santiago del Estero,262,9,comercial,8
+511,Catamarca,1163,8,industrial,6
+512,Salta,1316,9,residencial,2
+513,Santiago del Estero,890,20,residencial,3
+514,Santiago del Estero,921,9,comercial,5
+515,Salta,1351,1,residencial,5
+516,Santiago del Estero,1194,3,industrial,2
+517,Catamarca,876,16,industrial,4
+518,Catamarca,141,18,industrial,11
+519,Tucumán,1153,9,residencial,12
+520,Catamarca,1387,20,residencial,12
+521,Jujuy,464,8,industrial,4
+522,Santiago del Estero,945,16,residencial,12
+523,Salta,1363,5,comercial,3
+524,Salta,566,8,industrial,8
+525,Tucumán,728,0,residencial,9
+526,Tucumán,931,2,comercial,2
+527,Salta,804,16,residencial,8
+528,Catamarca,51,16,residencial,2
+529,Tucumán,133,10,residencial,3
+530,Santiago del Estero,86,9,industrial,1
+531,Salta,1104,11,industrial,5
+532,Jujuy,1393,20,residencial,1
+533,Santiago del Estero,249,17,residencial,7
+534,Jujuy,58,4,residencial,11
+535,Jujuy,372,15,comercial,10
+536,Santiago del Estero,1406,8,comercial,3
+537,Jujuy,92,15,industrial,1
+538,Jujuy,336,16,comercial,11
+539,Tucumán,1103,16,comercial,2
+540,Catamarca,1348,1,comercial,4
+541,Catamarca,1124,9,industrial,4
+542,Tucumán,594,19,industrial,7
+543,Catamarca,225,20,industrial,1
+544,Salta,1401,0,comercial,10
+545,Jujuy,298,8,industrial,4
+546,Santiago del Estero,1152,12,industrial,8
+547,Catamarca,872,11,comercial,7
+548,Salta,221,17,industrial,10
+549,Santiago del Estero,1413,5,industrial,6
+550,Jujuy,1290,19,industrial,5
+551,Catamarca,615,17,industrial,4
+552,Salta,95,11,comercial,3
+553,Salta,1204,17,comercial,1
+554,Jujuy,989,4,comercial,12
+555,Catamarca,140,14,residencial,3
+556,Santiago del Estero,593,4,industrial,5
+557,Santiago del Estero,99,2,residencial,2
+558,Santiago del Estero,1321,16,comercial,6
+559,Tucumán,750,4,industrial,11
+560,Tucumán,223,9,comercial,7
+561,Jujuy,1107,2,industrial,12
+562,Santiago del Estero,1495,17,residencial,7
+563,Salta,281,13,comercial,6
+564,Santiago del Estero,1075,1,comercial,3
+565,Tucumán,1431,20,residencial,8
+566,Catamarca,892,19,comercial,6
+567,Tucumán,1111,6,industrial,9
+568,Catamarca,351,3,residencial,12
+569,Salta,235,0,industrial,3
+570,Jujuy,985,0,residencial,2
+571,Jujuy,660,4,residencial,1
+572,Catamarca,261,7,comercial,6
+573,Catamarca,355,7,industrial,11
+574,Salta,906,12,comercial,8
+575,Jujuy,1240,6,residencial,9
+576,Santiago del Estero,54,7,comercial,1
+577,Jujuy,612,3,residencial,4
+578,Catamarca,120,15,industrial,9
+579,Santiago del Estero,289,4,residencial,9
+580,Santiago del Estero,929,6,industrial,6
+581,Santiago del Estero,1050,16,comercial,2
+582,Jujuy,204,4,industrial,7
+583,Catamarca,1200,7,comercial,6
+584,Catamarca,723,14,residencial,7
+585,Catamarca,1440,16,residencial,7
+586,Jujuy,551,10,industrial,12
+587,Salta,896,1,comercial,9
+588,Catamarca,371,1,industrial,12
+589,Tucumán,572,13,residencial,7
+590,Tucumán,1244,20,industrial,6
+591,Jujuy,1264,8,residencial,5
+592,Jujuy,1061,17,residencial,4
+593,Catamarca,277,13,comercial,4
+594,Salta,57,15,residencial,4
+595,Salta,922,15,comercial,10
+596,Tucumán,781,19,industrial,11
+597,Catamarca,1493,10,comercial,7
+598,Catamarca,1224,14,industrial,9
+599,Tucumán,1265,2,residencial,8
+600,Salta,1401,0,comercial,4
+601,Tucumán,784,5,residencial,9
+602,Salta,1361,18,comercial,11
+603,Tucumán,698,2,residencial,10
+604,Santiago del Estero,352,11,comercial,2
+605,Jujuy,445,0,residencial,11
+606,Santiago del Estero,1094,1,residencial,3
+607,Salta,525,9,comercial,12
+608,Santiago del Estero,1117,8,comercial,12
+609,Tucumán,798,17,industrial,5
+610,Jujuy,775,14,comercial,3
+611,Jujuy,102,9,residencial,5
+612,Jujuy,1045,3,comercial,5
+613,Tucumán,795,7,residencial,9
+614,Tucumán,1304,12,residencial,7
+615,Tucumán,386,16,residencial,12
+616,Salta,1277,10,industrial,7
+617,Santiago del Estero,803,3,comercial,2
+618,Santiago del Estero,539,11,residencial,12
+619,Salta,481,0,industrial,9
+620,Tucumán,1169,2,residencial,9
+621,Catamarca,708,1,comercial,8
+622,Santiago del Estero,365,14,residencial,2
+623,Tucumán,99,20,industrial,2
+624,Jujuy,269,20,industrial,12
+625,Salta,1106,0,residencial,8
+626,Salta,677,4,residencial,6
+627,Salta,268,17,residencial,11
+628,Santiago del Estero,1212,9,residencial,2
+629,Catamarca,238,19,comercial,7
+630,Tucumán,1387,11,comercial,12
+631,Salta,352,0,industrial,9
+632,Catamarca,797,13,residencial,4
+633,Catamarca,687,6,comercial,7
+634,Tucumán,357,16,residencial,1
+635,Jujuy,836,2,comercial,11
+636,Catamarca,706,11,residencial,3
+637,Salta,426,11,residencial,11
+638,Tucumán,1277,9,residencial,11
+639,Jujuy,1490,18,comercial,12
+640,Santiago del Estero,869,8,comercial,11
+641,Catamarca,126,7,comercial,7
+642,Tucumán,89,19,comercial,4
+643,Catamarca,641,0,comercial,8
+644,Tucumán,491,1,industrial,2
+645,Jujuy,979,8,comercial,11
+646,Jujuy,1255,6,industrial,11
+647,Santiago del Estero,510,11,residencial,3
+648,Jujuy,123,12,industrial,3
+649,Tucumán,359,11,comercial,12
+650,Santiago del Estero,967,19,comercial,12
+651,Catamarca,593,11,comercial,12
+652,Santiago del Estero,570,2,residencial,9
+653,Tucumán,312,11,residencial,8
+654,Tucumán,829,18,industrial,12
+655,Tucumán,395,2,residencial,4
+656,Salta,1099,12,comercial,5
+657,Salta,450,12,residencial,3
+658,Santiago del Estero,1161,13,residencial,12
+659,Jujuy,1285,10,industrial,1
+660,Tucumán,103,9,comercial,11
+661,Catamarca,929,19,industrial,6
+662,Santiago del Estero,835,4,industrial,11
+663,Jujuy,389,3,comercial,3
+664,Santiago del Estero,1315,13,industrial,4
+665,Catamarca,867,17,comercial,7
+666,Salta,892,9,comercial,8
+667,Jujuy,864,3,comercial,11
+668,Catamarca,756,10,residencial,5
+669,Tucumán,590,2,comercial,3
+670,Tucumán,981,2,industrial,6
+671,Salta,1381,5,comercial,3
+672,Tucumán,1397,4,comercial,2
+673,Salta,338,4,comercial,7
+674,Tucumán,926,19,residencial,9
+675,Salta,1106,5,industrial,5
+676,Santiago del Estero,572,13,residencial,11
+677,Jujuy,1030,13,residencial,3
+678,Salta,239,11,comercial,9
+679,Catamarca,1320,5,industrial,6
+680,Jujuy,556,1,residencial,5
+681,Salta,1461,4,comercial,7
+682,Tucumán,561,17,comercial,4
+683,Santiago del Estero,1003,1,residencial,9
+684,Santiago del Estero,152,17,residencial,1
+685,Jujuy,447,12,industrial,2
+686,Catamarca,287,1,industrial,5
+687,Salta,1120,1,industrial,4
+688,Tucumán,251,10,residencial,9
+689,Tucumán,585,14,comercial,7
+690,Salta,139,4,industrial,6
+691,Catamarca,211,14,residencial,11
+692,Salta,615,3,comercial,11
+693,Salta,962,3,residencial,9
+694,Tucumán,788,9,comercial,8
+695,Salta,640,7,comercial,8
+696,Tucumán,186,20,comercial,3
+697,Salta,109,4,residencial,7
+698,Salta,537,14,residencial,7
+699,Catamarca,783,8,industrial,7
+700,Tucumán,918,12,industrial,3
+701,Salta,1271,10,industrial,10
+702,Catamarca,292,19,residencial,1
+703,Catamarca,121,11,comercial,7
+704,Santiago del Estero,677,16,industrial,7
+705,Tucumán,550,9,residencial,10
+706,Jujuy,126,11,residencial,4
+707,Tucumán,1137,15,industrial,8
+708,Jujuy,1465,15,industrial,11
+709,Santiago del Estero,458,10,industrial,12
+710,Catamarca,316,15,industrial,2
+711,Santiago del Estero,1275,10,residencial,11
+712,Santiago del Estero,428,3,residencial,12
+713,Tucumán,1304,2,comercial,9
+714,Tucumán,1372,20,residencial,3
+715,Santiago del Estero,820,11,industrial,7
+716,Catamarca,1491,18,comercial,8
+717,Tucumán,221,0,industrial,8
+718,Salta,1471,0,residencial,7
+719,Tucumán,1086,14,industrial,3
+720,Salta,242,10,comercial,8
+721,Tucumán,500,1,comercial,1
+722,Tucumán,1012,17,residencial,5
+723,Santiago del Estero,1038,6,comercial,3
+724,Salta,1047,13,residencial,12
+725,Tucumán,1262,15,residencial,12
+726,Jujuy,1418,17,comercial,3
+727,Catamarca,1340,19,residencial,12
+728,Jujuy,1209,5,industrial,9
+729,Catamarca,528,4,residencial,12
+730,Tucumán,347,3,industrial,1
+731,Salta,1287,13,comercial,6
+732,Jujuy,1081,15,residencial,8
+733,Jujuy,738,4,residencial,3
+734,Salta,85,11,residencial,12
+735,Tucumán,981,12,residencial,12
+736,Catamarca,318,18,comercial,8
+737,Jujuy,820,6,residencial,2
+738,Salta,1210,13,comercial,9
+739,Santiago del Estero,874,13,comercial,7
+740,Tucumán,547,10,comercial,3
+741,Jujuy,111,2,residencial,10
+742,Tucumán,980,5,comercial,1
+743,Catamarca,1040,0,industrial,8
+744,Catamarca,680,8,comercial,5
+745,Santiago del Estero,425,20,comercial,4
+746,Santiago del Estero,1137,10,industrial,5
+747,Salta,274,20,industrial,10
+748,Catamarca,577,9,residencial,6
+749,Jujuy,1210,6,comercial,2
+750,Jujuy,542,10,industrial,10
+751,Jujuy,972,5,comercial,3
+752,Salta,1060,18,comercial,12
+753,Catamarca,1232,20,comercial,9
+754,Jujuy,485,10,industrial,10
+755,Catamarca,455,8,comercial,12
+756,Santiago del Estero,1286,6,industrial,1
+757,Santiago del Estero,1440,10,residencial,9
+758,Santiago del Estero,1097,18,industrial,9
+759,Jujuy,422,20,comercial,1
+760,Tucumán,1135,5,comercial,7
+761,Santiago del Estero,1282,11,comercial,12
+762,Catamarca,999,2,industrial,11
+763,Tucumán,747,1,residencial,5
+764,Catamarca,1473,1,residencial,6
+765,Tucumán,122,13,industrial,4
+766,Santiago del Estero,407,13,industrial,7
+767,Catamarca,766,0,comercial,8
+768,Santiago del Estero,1275,18,industrial,8
+769,Tucumán,1258,6,industrial,11
+770,Jujuy,955,3,comercial,5
+771,Catamarca,907,8,industrial,12
+772,Jujuy,306,19,industrial,1
+773,Salta,846,13,industrial,5
+774,Salta,1418,17,comercial,10
+775,Jujuy,210,14,industrial,10
+776,Catamarca,725,10,residencial,9
+777,Salta,149,4,industrial,2
+778,Salta,294,8,residencial,12
+779,Jujuy,788,10,residencial,6
+780,Tucumán,983,11,industrial,4
+781,Santiago del Estero,666,11,residencial,6
+782,Jujuy,1021,2,comercial,4
+783,Salta,1474,16,comercial,5
+784,Jujuy,373,1,industrial,9
+785,Catamarca,1049,8,residencial,7
+786,Tucumán,1210,12,comercial,12
+787,Jujuy,1042,14,comercial,8
+788,Jujuy,553,19,industrial,9
+789,Salta,690,9,comercial,11
+790,Santiago del Estero,1241,11,residencial,9
+791,Catamarca,76,20,comercial,8
+792,Tucumán,891,19,residencial,10
+793,Jujuy,988,9,residencial,1
+794,Santiago del Estero,699,5,comercial,5
+795,Catamarca,628,7,residencial,4
+796,Salta,530,11,residencial,1
+797,Catamarca,892,12,comercial,11
+798,Salta,798,4,comercial,7
+799,Tucumán,1093,20,industrial,11
+800,Tucumán,386,5,residencial,11
+801,Salta,766,8,residencial,5
+802,Jujuy,1302,4,industrial,3
+803,Jujuy,113,14,industrial,6
+804,Catamarca,1294,14,comercial,5
+805,Catamarca,433,6,residencial,3
+806,Catamarca,617,11,comercial,1
+807,Santiago del Estero,799,15,residencial,5
+808,Catamarca,754,13,comercial,3
+809,Santiago del Estero,352,17,industrial,9
+810,Catamarca,52,7,industrial,11
+811,Santiago del Estero,963,9,residencial,2
+812,Catamarca,1357,10,residencial,12
+813,Santiago del Estero,759,17,comercial,9
+814,Tucumán,590,16,industrial,12
+815,Catamarca,171,6,industrial,9
+816,Santiago del Estero,645,14,industrial,12
+817,Santiago del Estero,959,15,comercial,4
+818,Santiago del Estero,218,13,residencial,7
+819,Catamarca,1371,5,industrial,10
+820,Salta,597,1,industrial,12
+821,Jujuy,727,10,industrial,12
+822,Jujuy,561,18,industrial,10
+823,Santiago del Estero,659,20,residencial,10
+824,Salta,1477,2,industrial,11
+825,Jujuy,659,2,residencial,7
+826,Jujuy,1075,17,industrial,1
+827,Salta,767,13,industrial,2
+828,Tucumán,735,5,residencial,7
+829,Salta,1228,11,industrial,5
+830,Jujuy,476,8,residencial,5
+831,Tucumán,1426,7,residencial,7
+832,Santiago del Estero,1293,5,comercial,7
+833,Salta,469,7,residencial,9
+834,Jujuy,1106,14,residencial,3
+835,Santiago del Estero,523,5,residencial,3
+836,Jujuy,1063,2,industrial,12
+837,Tucumán,160,12,comercial,2
+838,Santiago del Estero,166,1,residencial,10
+839,Salta,1305,8,comercial,7
+840,Santiago del Estero,1085,10,industrial,2
+841,Santiago del Estero,1177,5,industrial,7
+842,Tucumán,1111,18,industrial,9
+843,Santiago del Estero,1381,20,industrial,11
+844,Jujuy,971,8,industrial,1
+845,Catamarca,651,17,comercial,12
+846,Catamarca,1015,13,industrial,9
+847,Salta,1082,20,comercial,6
+848,Santiago del Estero,1066,9,residencial,7
+849,Tucumán,376,0,industrial,5
+850,Catamarca,834,5,residencial,7
+851,Tucumán,174,3,industrial,2
+852,Salta,1061,18,comercial,12
+853,Catamarca,1106,9,residencial,5
+854,Tucumán,1229,11,industrial,7
+855,Jujuy,1033,9,residencial,4
+856,Santiago del Estero,1409,5,residencial,7
+857,Salta,1359,13,residencial,4
+858,Santiago del Estero,1056,13,comercial,2
+859,Salta,790,11,residencial,3
+860,Tucumán,646,14,residencial,6
+861,Salta,428,0,industrial,11
+862,Jujuy,412,4,residencial,7
+863,Jujuy,1440,11,industrial,6
+864,Jujuy,1408,2,comercial,12
+865,Santiago del Estero,1172,2,residencial,10
+866,Santiago del Estero,492,15,comercial,7
+867,Salta,861,3,industrial,9
+868,Santiago del Estero,817,20,residencial,1
+869,Salta,1341,1,residencial,2
+870,Salta,630,9,residencial,7
+871,Catamarca,1020,1,industrial,5
+872,Tucumán,1114,16,industrial,10
+873,Tucumán,467,19,comercial,11
+874,Catamarca,1177,0,comercial,12
+875,Santiago del Estero,764,17,residencial,10
+876,Jujuy,956,17,comercial,3
+877,Salta,96,0,comercial,12
+878,Santiago del Estero,1452,0,industrial,2
+879,Salta,215,16,industrial,4
+880,Santiago del Estero,1124,9,comercial,7
+881,Catamarca,257,13,comercial,4
+882,Salta,1329,10,industrial,8
+883,Santiago del Estero,1465,3,industrial,2
+884,Santiago del Estero,1368,18,comercial,2
+885,Catamarca,1218,12,residencial,11
+886,Salta,1409,12,industrial,11
+887,Salta,967,11,comercial,10
+888,Tucumán,371,13,comercial,5
+889,Santiago del Estero,448,1,residencial,5
+890,Salta,269,12,industrial,4
+891,Salta,776,1,residencial,4
+892,Catamarca,147,11,residencial,10
+893,Santiago del Estero,1332,10,comercial,7
+894,Jujuy,290,6,industrial,2
+895,Salta,1016,15,industrial,6
+896,Catamarca,789,10,industrial,8
+897,Tucumán,790,16,residencial,4
+898,Santiago del Estero,837,0,residencial,11
+899,Salta,523,12,industrial,7
+900,Catamarca,239,15,industrial,7
+901,Catamarca,925,12,industrial,12
+902,Catamarca,1299,7,industrial,6
+903,Jujuy,458,19,industrial,8
+904,Salta,1263,15,residencial,10
+905,Santiago del Estero,336,12,comercial,7
+906,Jujuy,1215,18,industrial,8
+907,Catamarca,426,16,comercial,7
+908,Santiago del Estero,388,20,comercial,11
+909,Jujuy,1280,18,comercial,4
+910,Santiago del Estero,1253,13,industrial,6
+911,Salta,342,9,comercial,11
+912,Jujuy,978,9,residencial,3
+913,Catamarca,517,12,comercial,12
+914,Catamarca,1234,3,residencial,2
+915,Tucumán,178,1,industrial,12
+916,Santiago del Estero,805,20,comercial,7
+917,Tucumán,480,4,comercial,3
+918,Santiago del Estero,857,6,residencial,1
+919,Tucumán,327,0,residencial,11
+920,Salta,982,7,industrial,7
+921,Salta,1444,9,residencial,10
+922,Jujuy,753,6,residencial,4
+923,Catamarca,719,16,comercial,2
+924,Santiago del Estero,268,12,industrial,12
+925,Salta,1484,19,industrial,3
+926,Salta,1066,10,residencial,7
+927,Salta,1317,9,comercial,9
+928,Santiago del Estero,1182,11,residencial,11
+929,Jujuy,1135,0,industrial,12
+930,Tucumán,557,18,comercial,11
+931,Salta,733,6,industrial,5
+932,Salta,211,11,industrial,5
+933,Tucumán,558,4,industrial,6
+934,Jujuy,333,18,residencial,12
+935,Tucumán,1062,10,residencial,4
+936,Jujuy,689,1,residencial,3
+937,Salta,800,12,residencial,2
+938,Jujuy,915,12,comercial,1
+939,Catamarca,157,19,comercial,1
+940,Catamarca,1423,1,comercial,5
+941,Jujuy,554,9,residencial,11
+942,Santiago del Estero,1447,7,industrial,5
+943,Salta,563,5,residencial,2
+944,Salta,825,16,residencial,9
+945,Salta,1001,0,comercial,5
+946,Santiago del Estero,84,7,comercial,6
+947,Santiago del Estero,148,8,industrial,8
+948,Salta,613,19,comercial,8
+949,Santiago del Estero,387,16,comercial,3
+950,Tucumán,913,13,industrial,4
+951,Salta,386,11,residencial,12
+952,Catamarca,1287,9,comercial,11
+953,Santiago del Estero,367,5,comercial,7
+954,Catamarca,597,1,residencial,3
+955,Jujuy,476,4,comercial,7
+956,Salta,429,17,industrial,8
+957,Santiago del Estero,259,14,residencial,5
+958,Catamarca,1444,2,industrial,10
+959,Tucumán,1192,3,comercial,11
+960,Jujuy,676,13,comercial,12
+961,Salta,472,12,comercial,2
+962,Tucumán,796,2,residencial,3
+963,Jujuy,300,2,comercial,4
+964,Tucumán,115,11,residencial,1
+965,Jujuy,830,17,residencial,10
+966,Tucumán,1116,20,comercial,9
+967,Santiago del Estero,512,20,comercial,1
+968,Tucumán,675,19,comercial,12
+969,Salta,165,4,comercial,7
+970,Tucumán,1326,11,comercial,12
+971,Santiago del Estero,921,2,residencial,5
+972,Salta,282,1,comercial,2
+973,Salta,964,17,industrial,8
+974,Salta,838,9,comercial,3
+975,Santiago del Estero,1021,19,industrial,11
+976,Jujuy,78,17,industrial,8
+977,Santiago del Estero,1493,4,residencial,8
+978,Catamarca,482,2,comercial,8
+979,Tucumán,1158,5,comercial,11
+980,Santiago del Estero,1331,15,residencial,4
+981,Salta,1339,2,industrial,11
+982,Jujuy,269,1,industrial,12
+983,Tucumán,421,3,comercial,7
+984,Tucumán,163,18,comercial,7
+985,Catamarca,576,2,comercial,12
+986,Salta,129,8,industrial,4
+987,Santiago del Estero,780,16,industrial,5
+988,Catamarca,451,9,comercial,12
+989,Jujuy,1291,11,comercial,12
+990,Catamarca,440,9,industrial,2
+991,Salta,177,18,residencial,10
+992,Jujuy,445,19,comercial,2
+993,Salta,539,18,residencial,8
+994,Santiago del Estero,229,5,residencial,8
+995,Jujuy,64,16,residencial,3
+996,Catamarca,1267,0,comercial,11
+997,Jujuy,253,20,industrial,10
+998,Jujuy,1401,18,industrial,5
+999,Santiago del Estero,641,3,residencial,2
+1000,Santiago del Estero,967,6,industrial,6
+1001,Salta,276,19,comercial,8
+1002,Tucumán,53,19,comercial,7
+1003,Catamarca,897,2,residencial,2
+1004,Jujuy,909,12,comercial,1
+1005,Jujuy,1182,8,residencial,9
+1006,Santiago del Estero,168,14,comercial,5
+1007,Catamarca,866,16,industrial,3
+1008,Santiago del Estero,1386,9,comercial,2
+1009,Jujuy,1282,19,comercial,12
+1010,Jujuy,997,4,residencial,5
+1011,Salta,420,18,residencial,6
+1012,Tucumán,217,11,residencial,12
+1013,Tucumán,642,3,comercial,4
+1014,Santiago del Estero,938,14,comercial,12
+1015,Jujuy,438,16,residencial,4
+1016,Salta,259,9,industrial,12
+1017,Santiago del Estero,1248,4,residencial,1
+1018,Tucumán,483,3,comercial,12
+1019,Santiago del Estero,506,16,comercial,2
+1020,Tucumán,361,15,comercial,2
+1021,Tucumán,1090,9,comercial,9
+1022,Jujuy,1036,15,comercial,2
+1023,Catamarca,727,1,industrial,6
+1024,Tucumán,109,1,industrial,4
+1025,Santiago del Estero,983,8,industrial,8
+1026,Catamarca,907,4,residencial,8
+1027,Tucumán,689,17,comercial,8
+1028,Tucumán,1200,19,residencial,7
+1029,Catamarca,1010,2,industrial,7
+1030,Santiago del Estero,584,18,industrial,11
+1031,Jujuy,337,11,industrial,8
+1032,Salta,519,16,residencial,3
+1033,Tucumán,619,19,comercial,8
+1034,Jujuy,1141,14,residencial,11
+1035,Salta,1326,14,industrial,1
+1036,Catamarca,723,11,comercial,10
+1037,Santiago del Estero,162,14,residencial,7
+1038,Salta,102,10,residencial,6
+1039,Catamarca,785,17,residencial,6
+1040,Santiago del Estero,1430,10,industrial,2
+1041,Jujuy,1364,9,residencial,12
+1042,Santiago del Estero,685,8,industrial,8
+1043,Tucumán,1121,5,comercial,3
+1044,Salta,1006,11,comercial,6
+1045,Salta,1280,16,residencial,6
+1046,Jujuy,655,10,residencial,2
+1047,Catamarca,203,13,industrial,5
+1048,Salta,464,7,residencial,2
+1049,Tucumán,247,0,industrial,12
+1050,Santiago del Estero,941,8,industrial,3
+1051,Tucumán,1364,18,comercial,12
+1052,Tucumán,957,11,industrial,12
+1053,Salta,508,3,comercial,5
+1054,Santiago del Estero,1396,17,residencial,6
+1055,Jujuy,803,16,comercial,12
+1056,Santiago del Estero,272,11,industrial,1
+1057,Tucumán,716,7,residencial,11
+1058,Salta,298,20,comercial,7
+1059,Tucumán,1196,19,comercial,7
+1060,Tucumán,298,10,residencial,1
+1061,Jujuy,253,8,residencial,2
+1062,Salta,1494,7,comercial,8
+1063,Salta,695,17,industrial,1
+1064,Salta,375,14,comercial,5
+1065,Salta,1133,10,residencial,8
+1066,Salta,605,2,comercial,3
+1067,Salta,950,18,industrial,12
+1068,Salta,767,6,residencial,8
+1069,Tucumán,563,17,residencial,3
+1070,Santiago del Estero,1300,11,industrial,5
+1071,Salta,1428,8,residencial,2
+1072,Santiago del Estero,486,12,residencial,9
+1073,Jujuy,1104,1,comercial,10
+1074,Santiago del Estero,124,14,comercial,6
+1075,Jujuy,631,1,industrial,5
+1076,Jujuy,334,5,comercial,7
+1077,Tucumán,1115,20,industrial,2
+1078,Santiago del Estero,73,10,residencial,7
+1079,Salta,370,3,industrial,1
+1080,Catamarca,496,9,residencial,6
+1081,Santiago del Estero,468,8,residencial,4
+1082,Jujuy,150,17,industrial,8
+1083,Tucumán,190,5,residencial,3
+1084,Jujuy,752,3,residencial,2
+1085,Catamarca,902,5,residencial,10
+1086,Salta,1194,1,industrial,9
+1087,Santiago del Estero,627,6,residencial,8
+1088,Salta,1009,17,industrial,9
+1089,Salta,1064,7,residencial,6
+1090,Jujuy,466,12,residencial,11
+1091,Catamarca,229,20,residencial,9
+1092,Santiago del Estero,993,3,residencial,4
+1093,Santiago del Estero,502,0,industrial,5
+1094,Tucumán,793,12,industrial,8
+1095,Salta,1363,3,residencial,9
+1096,Tucumán,586,17,residencial,5
+1097,Salta,743,7,industrial,6
+1098,Santiago del Estero,953,0,comercial,5
+1099,Catamarca,303,15,residencial,11
+1100,Salta,508,2,industrial,5
+1101,Salta,777,13,industrial,3
+1102,Catamarca,209,14,comercial,4
+1103,Santiago del Estero,1043,0,residencial,1
+1104,Salta,1379,18,industrial,8
+1105,Catamarca,715,13,industrial,7
+1106,Catamarca,906,7,residencial,12
+1107,Tucumán,129,12,residencial,2
+1108,Santiago del Estero,653,17,comercial,10
+1109,Jujuy,1310,5,industrial,6
+1110,Santiago del Estero,1304,10,residencial,1
+1111,Santiago del Estero,1050,9,residencial,10
+1112,Santiago del Estero,945,8,comercial,6
+1113,Santiago del Estero,644,11,residencial,11
+1114,Tucumán,822,1,comercial,7
+1115,Catamarca,843,12,comercial,1
+1116,Tucumán,1074,18,industrial,1
+1117,Tucumán,1451,14,industrial,2
+1118,Santiago del Estero,638,17,industrial,3
+1119,Jujuy,906,13,industrial,8
+1120,Jujuy,442,18,industrial,1
+1121,Salta,1153,19,comercial,9
+1122,Catamarca,690,16,industrial,12
+1123,Salta,693,0,comercial,8
+1124,Salta,327,13,comercial,4
+1125,Santiago del Estero,1097,9,residencial,5
+1126,Santiago del Estero,1237,5,industrial,8
+1127,Catamarca,992,5,comercial,3
+1128,Tucumán,1114,14,residencial,2
+1129,Catamarca,1021,17,comercial,7
+1130,Salta,394,2,comercial,3
+1131,Catamarca,1026,11,industrial,6
+1132,Salta,1125,20,residencial,8
+1133,Tucumán,1227,0,comercial,8
+1134,Salta,785,7,industrial,4
+1135,Tucumán,1406,4,comercial,1
+1136,Salta,904,12,comercial,8
+1137,Jujuy,211,18,industrial,2
+1138,Santiago del Estero,1236,2,industrial,8
+1139,Tucumán,1402,6,comercial,3
+1140,Santiago del Estero,393,0,industrial,1
+1141,Salta,1434,18,industrial,10
+1142,Tucumán,133,8,industrial,12
+1143,Santiago del Estero,1172,20,industrial,7
+1144,Catamarca,874,20,residencial,2
+1145,Salta,292,0,industrial,9
+1146,Catamarca,206,0,industrial,10
+1147,Jujuy,456,13,industrial,3
+1148,Santiago del Estero,258,0,industrial,9
+1149,Jujuy,589,10,residencial,12
+1150,Santiago del Estero,442,13,residencial,11
+1151,Jujuy,961,18,industrial,4
+1152,Tucumán,52,2,comercial,9
+1153,Tucumán,268,19,residencial,6
+1154,Catamarca,828,0,comercial,1
+1155,Santiago del Estero,425,8,industrial,4
+1156,Catamarca,639,3,residencial,6
+1157,Tucumán,813,2,comercial,7
+1158,Santiago del Estero,1320,15,comercial,7
+1159,Jujuy,208,5,residencial,5
+1160,Salta,985,4,comercial,12
+1161,Tucumán,107,5,industrial,8
+1162,Santiago del Estero,1168,12,residencial,7
+1163,Tucumán,703,20,comercial,11
+1164,Catamarca,999,10,industrial,1
+1165,Salta,176,8,residencial,11
+1166,Jujuy,520,6,comercial,12
+1167,Santiago del Estero,159,19,residencial,5
+1168,Catamarca,459,1,comercial,11
+1169,Catamarca,605,6,industrial,6
+1170,Jujuy,441,0,residencial,9
+1171,Salta,136,5,industrial,4
+1172,Tucumán,1005,18,comercial,1
+1173,Catamarca,1210,10,industrial,10
+1174,Catamarca,1391,8,industrial,11
+1175,Salta,850,14,comercial,8
+1176,Catamarca,696,16,residencial,4
+1177,Santiago del Estero,1238,5,residencial,11
+1178,Jujuy,1453,16,residencial,8
+1179,Tucumán,558,5,industrial,8
+1180,Tucumán,1452,4,industrial,5
+1181,Catamarca,236,13,comercial,4
+1182,Tucumán,1056,2,industrial,1
+1183,Jujuy,501,20,comercial,1
+1184,Jujuy,335,19,comercial,6
+1185,Santiago del Estero,907,9,industrial,2
+1186,Catamarca,1116,7,industrial,1
+1187,Salta,917,19,residencial,7
+1188,Salta,135,18,comercial,9
+1189,Santiago del Estero,300,20,comercial,11
+1190,Santiago del Estero,805,11,industrial,10
+1191,Jujuy,566,6,industrial,4
+1192,Santiago del Estero,419,7,residencial,1
+1193,Santiago del Estero,384,9,comercial,3
+1194,Santiago del Estero,481,20,comercial,1
+1195,Tucumán,1437,11,comercial,11
+1196,Santiago del Estero,512,11,comercial,7
+1197,Tucumán,818,13,residencial,8
+1198,Tucumán,1149,15,industrial,8
+1199,Catamarca,666,14,residencial,1
+1200,Jujuy,188,1,comercial,4
+1201,Santiago del Estero,685,0,residencial,1
+1202,Catamarca,1300,3,residencial,5
+1203,Tucumán,640,0,comercial,1
+1204,Tucumán,985,20,residencial,8
+1205,Catamarca,585,8,industrial,10
+1206,Santiago del Estero,699,5,industrial,6
+1207,Jujuy,78,7,residencial,2
+1208,Catamarca,1111,6,comercial,8
+1209,Salta,752,7,comercial,4
+1210,Catamarca,57,4,residencial,10
+1211,Santiago del Estero,1267,18,industrial,8
+1212,Jujuy,423,5,residencial,12
+1213,Tucumán,1026,11,industrial,4
+1214,Salta,267,12,industrial,5
+1215,Jujuy,405,17,industrial,8
+1216,Salta,264,15,comercial,7
+1217,Tucumán,1003,11,comercial,11
+1218,Santiago del Estero,403,8,comercial,2
+1219,Catamarca,1448,10,comercial,9
+1220,Salta,1446,8,residencial,1
+1221,Tucumán,1239,18,industrial,10
+1222,Catamarca,680,10,residencial,5
+1223,Tucumán,221,20,comercial,12
+1224,Jujuy,1159,16,industrial,3
+1225,Santiago del Estero,481,2,industrial,10
+1226,Jujuy,183,2,industrial,6
+1227,Tucumán,1293,9,residencial,2
+1228,Jujuy,1175,13,industrial,4
+1229,Catamarca,123,15,industrial,8
+1230,Salta,821,9,comercial,6
+1231,Jujuy,487,18,residencial,8
+1232,Catamarca,598,13,residencial,12
+1233,Salta,481,18,comercial,8
+1234,Catamarca,899,0,industrial,8
+1235,Santiago del Estero,1013,0,comercial,12
+1236,Santiago del Estero,1041,17,industrial,8
+1237,Salta,1229,8,comercial,4
+1238,Tucumán,379,11,industrial,8
+1239,Catamarca,1136,9,comercial,8
+1240,Salta,1330,7,comercial,2
+1241,Santiago del Estero,321,10,residencial,12
+1242,Salta,576,17,industrial,8
+1243,Jujuy,583,11,industrial,12
+1244,Catamarca,383,8,residencial,7
+1245,Tucumán,1281,6,comercial,2
+1246,Tucumán,681,6,residencial,12
+1247,Salta,198,0,residencial,9
+1248,Catamarca,686,5,industrial,7
+1249,Salta,710,7,residencial,6
+1250,Jujuy,741,12,comercial,12
+1251,Catamarca,775,14,residencial,12
+1252,Santiago del Estero,1157,20,residencial,7
+1253,Catamarca,954,5,industrial,6
+1254,Santiago del Estero,1320,20,residencial,11
+1255,Tucumán,158,16,residencial,6
+1256,Jujuy,299,8,residencial,12
+1257,Santiago del Estero,1421,15,industrial,10
+1258,Tucumán,385,13,residencial,10
+1259,Salta,212,5,comercial,2
+1260,Santiago del Estero,1123,1,comercial,3
+1261,Santiago del Estero,356,17,industrial,11
+1262,Santiago del Estero,524,6,industrial,4
+1263,Catamarca,1162,20,comercial,10
+1264,Salta,90,6,residencial,4
+1265,Tucumán,388,15,residencial,8
+1266,Catamarca,1255,9,industrial,3
+1267,Santiago del Estero,744,3,comercial,1
+1268,Jujuy,1146,12,residencial,12
+1269,Jujuy,522,5,residencial,1
+1270,Catamarca,904,4,comercial,8
+1271,Tucumán,390,20,comercial,5
+1272,Tucumán,234,5,comercial,12
+1273,Tucumán,234,15,residencial,1
+1274,Jujuy,1446,10,comercial,10
+1275,Jujuy,1137,19,comercial,9
+1276,Salta,1122,10,residencial,5
+1277,Salta,1348,7,comercial,1
+1278,Catamarca,186,14,industrial,5
+1279,Catamarca,1161,18,industrial,5
+1280,Catamarca,252,12,comercial,10
+1281,Santiago del Estero,1455,7,industrial,5
+1282,Catamarca,867,6,comercial,6
+1283,Catamarca,1048,3,industrial,1
+1284,Jujuy,836,6,industrial,9
+1285,Tucumán,198,12,industrial,11
+1286,Catamarca,818,2,industrial,4
+1287,Tucumán,1407,2,industrial,1
+1288,Salta,778,15,industrial,4
+1289,Santiago del Estero,543,3,industrial,6
+1290,Jujuy,232,14,comercial,9
+1291,Santiago del Estero,974,1,residencial,10
+1292,Catamarca,686,16,comercial,11
+1293,Tucumán,747,17,residencial,3
+1294,Santiago del Estero,1366,16,comercial,2
+1295,Catamarca,660,1,comercial,5
+1296,Jujuy,1383,13,industrial,12
+1297,Tucumán,1116,8,residencial,10
+1298,Salta,1153,20,residencial,7
+1299,Santiago del Estero,780,18,comercial,5
+1300,Jujuy,1500,0,residencial,8
+1301,Jujuy,1452,8,residencial,3
+1302,Tucumán,725,6,residencial,11
+1303,Santiago del Estero,1455,14,industrial,10
+1304,Santiago del Estero,426,17,residencial,6
+1305,Santiago del Estero,283,10,residencial,1
+1306,Catamarca,737,19,comercial,11
+1307,Jujuy,1408,2,comercial,1
+1308,Catamarca,736,12,residencial,12
+1309,Catamarca,813,8,industrial,10
+1310,Catamarca,1228,2,comercial,3
+1311,Salta,1420,0,residencial,7
+1312,Catamarca,1419,5,residencial,1
+1313,Tucumán,856,20,residencial,6
+1314,Catamarca,716,7,industrial,6
+1315,Jujuy,788,5,comercial,12
+1316,Santiago del Estero,1157,4,comercial,8
+1317,Tucumán,252,20,residencial,2
+1318,Santiago del Estero,744,7,comercial,10
+1319,Santiago del Estero,1274,3,industrial,10
+1320,Santiago del Estero,415,3,industrial,11
+1321,Catamarca,869,14,industrial,9
+1322,Jujuy,83,7,industrial,8
+1323,Salta,1212,8,industrial,7
+1324,Jujuy,60,8,industrial,2
+1325,Tucumán,100,11,residencial,4
+1326,Jujuy,536,19,comercial,12
+1327,Salta,1168,11,comercial,7
+1328,Santiago del Estero,1385,15,residencial,7
+1329,Jujuy,1063,18,residencial,12
+1330,Santiago del Estero,925,4,residencial,1
+1331,Santiago del Estero,553,11,industrial,9
+1332,Jujuy,588,20,residencial,7
+1333,Catamarca,152,1,industrial,1
+1334,Santiago del Estero,1172,6,industrial,7
+1335,Santiago del Estero,1369,0,industrial,9
+1336,Santiago del Estero,296,13,residencial,9
+1337,Tucumán,761,4,comercial,2
+1338,Jujuy,1460,9,residencial,2
+1339,Jujuy,1087,15,industrial,11
+1340,Tucumán,678,19,industrial,5
+1341,Tucumán,271,17,residencial,2
+1342,Catamarca,912,0,industrial,8
+1343,Jujuy,117,5,residencial,1
+1344,Tucumán,1227,10,industrial,11
+1345,Santiago del Estero,1169,0,comercial,12
+1346,Jujuy,458,4,comercial,11
+1347,Tucumán,728,1,industrial,1
+1348,Salta,89,13,comercial,6
+1349,Salta,733,2,residencial,9
+1350,Tucumán,634,7,comercial,6
+1351,Tucumán,778,2,comercial,1
+1352,Santiago del Estero,350,18,residencial,3
+1353,Jujuy,844,20,industrial,5
+1354,Tucumán,498,14,comercial,7
+1355,Jujuy,1020,6,comercial,3
+1356,Salta,1190,14,comercial,7
+1357,Tucumán,879,9,industrial,4
+1358,Jujuy,1500,15,comercial,5
+1359,Tucumán,916,3,comercial,11
+1360,Salta,1356,7,industrial,8
+1361,Tucumán,813,18,comercial,12
+1362,Catamarca,1209,3,residencial,9
+1363,Catamarca,1330,18,residencial,10
+1364,Santiago del Estero,245,1,residencial,9
+1365,Catamarca,439,7,comercial,7
+1366,Jujuy,906,18,comercial,7
+1367,Santiago del Estero,1208,7,comercial,6
+1368,Jujuy,1491,1,industrial,8
+1369,Santiago del Estero,120,3,industrial,11
+1370,Jujuy,1468,4,industrial,4
+1371,Jujuy,1473,4,residencial,3
+1372,Santiago del Estero,782,17,comercial,9
+1373,Jujuy,299,13,residencial,4
+1374,Catamarca,1456,15,industrial,10
+1375,Tucumán,615,5,residencial,5
+1376,Jujuy,1325,5,industrial,10
+1377,Catamarca,198,13,residencial,8
+1378,Salta,139,0,residencial,3
+1379,Tucumán,596,13,industrial,8
+1380,Santiago del Estero,695,19,residencial,5
+1381,Catamarca,1063,8,comercial,5
+1382,Catamarca,671,5,residencial,2
+1383,Tucumán,130,5,comercial,9
+1384,Santiago del Estero,225,18,industrial,8
+1385,Jujuy,1096,12,industrial,4
+1386,Tucumán,1216,2,industrial,5
+1387,Santiago del Estero,152,0,residencial,2
+1388,Jujuy,1129,11,residencial,8
+1389,Santiago del Estero,1499,12,industrial,11
+1390,Santiago del Estero,1269,8,residencial,12
+1391,Santiago del Estero,856,7,industrial,1
+1392,Catamarca,951,18,residencial,11
+1393,Jujuy,275,16,comercial,7
+1394,Catamarca,574,8,comercial,5
+1395,Jujuy,1274,20,industrial,1
+1396,Tucumán,1180,4,residencial,9
+1397,Tucumán,1303,7,residencial,10
+1398,Jujuy,1255,2,residencial,1
+1399,Catamarca,361,2,comercial,5
+1400,Jujuy,1177,13,industrial,3
+1401,Jujuy,425,16,industrial,7
+1402,Jujuy,1286,19,residencial,1
+1403,Catamarca,847,2,industrial,1
+1404,Jujuy,230,1,comercial,12
+1405,Jujuy,53,14,residencial,7
+1406,Salta,55,20,comercial,12
+1407,Tucumán,1198,7,comercial,3
+1408,Jujuy,66,5,residencial,10
+1409,Tucumán,883,14,industrial,11
+1410,Salta,902,1,comercial,1
+1411,Santiago del Estero,464,10,comercial,4
+1412,Tucumán,1008,14,residencial,3
+1413,Catamarca,813,8,comercial,11
+1414,Catamarca,1475,16,comercial,6
+1415,Tucumán,1312,0,residencial,3
+1416,Jujuy,1367,2,industrial,11
+1417,Salta,1289,3,comercial,5
+1418,Tucumán,1390,19,comercial,10
+1419,Catamarca,715,16,industrial,8
+1420,Santiago del Estero,50,12,residencial,8
+1421,Santiago del Estero,1050,8,residencial,6
+1422,Tucumán,822,9,industrial,3
+1423,Tucumán,242,17,comercial,4
+1424,Tucumán,294,10,residencial,1
+1425,Tucumán,1176,0,comercial,10
+1426,Salta,1472,10,industrial,7
+1427,Salta,1005,6,residencial,6
+1428,Salta,1304,4,comercial,3
+1429,Catamarca,1202,9,comercial,6
+1430,Tucumán,623,6,comercial,11
+1431,Santiago del Estero,482,18,industrial,9
+1432,Tucumán,437,6,residencial,1
+1433,Catamarca,308,19,industrial,12
+1434,Jujuy,853,18,industrial,4
+1435,Santiago del Estero,1342,19,comercial,11
+1436,Santiago del Estero,1261,13,comercial,3
+1437,Salta,944,7,residencial,10
+1438,Salta,670,9,comercial,6
+1439,Jujuy,1212,19,residencial,6
+1440,Catamarca,1084,13,residencial,5
+1441,Salta,111,13,industrial,6
+1442,Salta,179,12,industrial,1
+1443,Tucumán,543,18,industrial,1
+1444,Tucumán,905,14,comercial,9
+1445,Tucumán,1248,5,comercial,4
+1446,Salta,173,14,residencial,3
+1447,Santiago del Estero,909,7,comercial,5
+1448,Salta,1168,19,comercial,7
+1449,Jujuy,1335,1,residencial,10
+1450,Catamarca,1177,19,residencial,7
+1451,Catamarca,970,18,residencial,7
+1452,Catamarca,782,19,comercial,7
+1453,Jujuy,316,1,residencial,9
+1454,Salta,1403,19,comercial,2
+1455,Salta,555,6,industrial,4
+1456,Salta,1481,18,residencial,4
+1457,Jujuy,183,12,comercial,7
+1458,Santiago del Estero,1179,6,comercial,5
+1459,Salta,117,19,residencial,10
+1460,Tucumán,310,15,industrial,10
+1461,Jujuy,1149,6,industrial,4
+1462,Santiago del Estero,929,7,residencial,3
+1463,Tucumán,1064,6,comercial,4
+1464,Catamarca,1474,16,residencial,11
+1465,Santiago del Estero,1085,10,residencial,8
+1466,Salta,1282,20,industrial,9
+1467,Jujuy,643,7,comercial,3
+1468,Salta,76,3,comercial,3
+1469,Santiago del Estero,977,6,residencial,5
+1470,Santiago del Estero,1108,14,residencial,7
+1471,Santiago del Estero,261,12,residencial,2
+1472,Salta,79,20,residencial,12
+1473,Jujuy,350,14,residencial,2
+1474,Salta,263,14,industrial,4
+1475,Jujuy,990,17,comercial,6
+1476,Jujuy,862,12,residencial,5
+1477,Catamarca,875,3,industrial,5
+1478,Catamarca,852,4,residencial,12
+1479,Catamarca,379,7,industrial,3
+1480,Catamarca,805,4,comercial,4
+1481,Catamarca,464,11,industrial,9
+1482,Tucumán,1349,5,residencial,2
+1483,Jujuy,1175,20,residencial,12
+1484,Catamarca,905,2,residencial,11
+1485,Catamarca,1304,11,industrial,6
+1486,Salta,365,7,industrial,5
+1487,Salta,761,3,industrial,7
+1488,Santiago del Estero,1229,8,industrial,10
+1489,Tucumán,1098,7,residencial,5
+1490,Salta,1350,17,comercial,1
+1491,Jujuy,688,4,comercial,6
+1492,Santiago del Estero,829,19,industrial,1
+1493,Jujuy,378,2,industrial,3
+1494,Tucumán,1255,4,residencial,6
+1495,Santiago del Estero,909,9,industrial,9
+1496,Catamarca,623,13,residencial,12
+1497,Jujuy,913,16,comercial,12
+1498,Jujuy,925,10,industrial,7
+1499,Tucumán,1206,1,comercial,5
+1500,Catamarca,231,12,residencial,5
+1501,Salta,546,18,comercial,10
+1502,Salta,271,3,residencial,10
+1503,Santiago del Estero,1267,15,residencial,1
+1504,Jujuy,386,14,residencial,9
+1505,Catamarca,331,13,industrial,7
+1506,Jujuy,831,6,residencial,9
+1507,Jujuy,1213,13,comercial,7
+1508,Jujuy,1387,11,comercial,6
+1509,Jujuy,344,12,industrial,4
+1510,Jujuy,572,20,industrial,12
+1511,Catamarca,778,11,residencial,9
+1512,Jujuy,722,18,industrial,7
+1513,Tucumán,408,9,industrial,10
+1514,Santiago del Estero,491,6,residencial,7
+1515,Jujuy,930,6,residencial,4
+1516,Catamarca,376,9,comercial,3
+1517,Salta,1355,5,comercial,7
+1518,Tucumán,1304,8,residencial,5
+1519,Tucumán,613,4,industrial,10
+1520,Catamarca,1448,7,residencial,4
+1521,Tucumán,554,14,residencial,6
+1522,Salta,669,7,comercial,6
+1523,Jujuy,625,7,comercial,11
+1524,Salta,965,15,comercial,10
+1525,Catamarca,1220,2,comercial,12
+1526,Catamarca,1251,12,comercial,4
+1527,Jujuy,1242,17,residencial,4
+1528,Salta,94,5,comercial,8
+1529,Catamarca,1258,10,residencial,4
+1530,Santiago del Estero,696,7,residencial,2
+1531,Santiago del Estero,299,18,residencial,9
+1532,Tucumán,166,4,residencial,5
+1533,Jujuy,869,17,industrial,6
+1534,Salta,97,3,industrial,10
+1535,Catamarca,296,18,industrial,1
+1536,Salta,1018,9,industrial,2
+1537,Santiago del Estero,511,9,comercial,7
+1538,Tucumán,624,8,industrial,3
+1539,Catamarca,188,4,comercial,11
+1540,Santiago del Estero,1076,2,residencial,12
+1541,Santiago del Estero,426,5,comercial,9
+1542,Catamarca,66,0,residencial,2
+1543,Santiago del Estero,425,15,residencial,3
+1544,Santiago del Estero,391,8,industrial,9
+1545,Jujuy,548,19,residencial,3
+1546,Catamarca,1267,2,comercial,4
+1547,Catamarca,945,13,industrial,12
+1548,Santiago del Estero,906,6,industrial,10
+1549,Jujuy,1127,8,industrial,2
+1550,Tucumán,1101,12,comercial,5
+1551,Tucumán,993,12,industrial,3
+1552,Santiago del Estero,1354,5,industrial,12
+1553,Catamarca,552,6,comercial,1
+1554,Salta,1429,5,residencial,10
+1555,Catamarca,832,19,residencial,10
+1556,Catamarca,396,15,residencial,1
+1557,Santiago del Estero,820,7,residencial,8
+1558,Jujuy,907,18,industrial,3
+1559,Santiago del Estero,1253,3,residencial,3
+1560,Jujuy,464,12,comercial,12
+1561,Salta,988,10,comercial,2
+1562,Catamarca,645,2,industrial,9
+1563,Salta,1254,10,residencial,10
+1564,Santiago del Estero,1470,12,residencial,1
+1565,Tucumán,316,19,comercial,12
+1566,Catamarca,1335,10,industrial,8
+1567,Tucumán,435,13,comercial,5
+1568,Tucumán,1145,11,industrial,3
+1569,Santiago del Estero,787,15,comercial,7
+1570,Catamarca,692,3,industrial,5
+1571,Jujuy,504,0,industrial,5
+1572,Santiago del Estero,1161,5,industrial,6
+1573,Tucumán,903,15,comercial,1
+1574,Jujuy,1010,16,industrial,8
+1575,Santiago del Estero,705,12,comercial,2
+1576,Jujuy,276,12,industrial,10
+1577,Jujuy,1057,20,residencial,12
+1578,Salta,914,16,residencial,9
+1579,Catamarca,895,8,industrial,11
+1580,Tucumán,395,2,residencial,10
+1581,Jujuy,97,5,comercial,6
+1582,Santiago del Estero,286,6,comercial,6
+1583,Santiago del Estero,522,14,comercial,3
+1584,Salta,1059,7,industrial,1
+1585,Catamarca,1345,13,comercial,12
+1586,Catamarca,503,14,comercial,4
+1587,Tucumán,1045,3,residencial,4
+1588,Tucumán,126,13,comercial,6
+1589,Santiago del Estero,1178,0,residencial,8
+1590,Salta,1224,11,industrial,11
+1591,Catamarca,1466,5,residencial,5
+1592,Jujuy,1041,20,industrial,4
+1593,Tucumán,296,19,comercial,5
+1594,Jujuy,769,13,residencial,1
+1595,Santiago del Estero,598,0,residencial,9
+1596,Santiago del Estero,874,6,industrial,2
+1597,Jujuy,1018,16,residencial,7
+1598,Tucumán,1239,9,comercial,2
+1599,Santiago del Estero,1262,14,comercial,6
+1600,Tucumán,437,9,residencial,3
+1601,Santiago del Estero,1381,17,industrial,2
+1602,Santiago del Estero,708,13,residencial,4
+1603,Tucumán,66,19,residencial,1
+1604,Jujuy,438,16,comercial,7
+1605,Santiago del Estero,140,7,comercial,1
+1606,Santiago del Estero,1281,20,industrial,4
+1607,Jujuy,699,4,residencial,4
+1608,Santiago del Estero,793,3,residencial,9
+1609,Tucumán,446,14,residencial,9
+1610,Tucumán,950,13,residencial,1
+1611,Santiago del Estero,87,17,comercial,7
+1612,Catamarca,258,12,industrial,7
+1613,Jujuy,599,17,residencial,8
+1614,Tucumán,1390,0,residencial,11
+1615,Tucumán,490,1,residencial,3
+1616,Catamarca,101,3,residencial,12
+1617,Catamarca,950,4,industrial,8
+1618,Salta,1468,10,comercial,8
+1619,Salta,544,0,industrial,6
+1620,Salta,447,3,comercial,9
+1621,Salta,661,6,residencial,9
+1622,Tucumán,260,2,industrial,12
+1623,Tucumán,93,14,comercial,2
+1624,Catamarca,1235,4,industrial,3
+1625,Catamarca,1401,0,comercial,4
+1626,Jujuy,449,12,industrial,7
+1627,Tucumán,303,8,industrial,6
+1628,Santiago del Estero,986,16,residencial,8
+1629,Santiago del Estero,1481,17,comercial,11
+1630,Jujuy,848,2,comercial,3
+1631,Jujuy,485,18,residencial,4
+1632,Catamarca,52,9,industrial,2
+1633,Tucumán,1430,16,comercial,3
+1634,Tucumán,293,0,comercial,6
+1635,Catamarca,1031,9,industrial,7
+1636,Catamarca,1121,0,industrial,12
+1637,Tucumán,311,16,industrial,6
+1638,Catamarca,85,6,industrial,5
+1639,Catamarca,64,16,residencial,8
+1640,Salta,100,3,industrial,3
+1641,Tucumán,460,14,comercial,2
+1642,Salta,625,1,industrial,8
+1643,Salta,1305,12,comercial,5
+1644,Catamarca,398,7,residencial,11
+1645,Santiago del Estero,1408,0,comercial,7
+1646,Salta,592,18,comercial,2
+1647,Santiago del Estero,179,0,industrial,8
+1648,Tucumán,1138,2,industrial,6
+1649,Tucumán,468,2,industrial,5
+1650,Jujuy,585,2,comercial,7
+1651,Catamarca,1230,4,residencial,11
+1652,Tucumán,1206,2,industrial,9
+1653,Catamarca,773,10,comercial,2
+1654,Catamarca,636,16,industrial,7
+1655,Salta,893,5,industrial,1
+1656,Tucumán,788,3,residencial,10
+1657,Jujuy,1383,1,residencial,1
+1658,Jujuy,644,3,residencial,5
+1659,Santiago del Estero,915,16,residencial,2
+1660,Jujuy,401,20,industrial,8
+1661,Salta,915,11,residencial,10
+1662,Catamarca,605,11,residencial,2
+1663,Jujuy,317,0,comercial,1
+1664,Tucumán,922,19,residencial,12
+1665,Tucumán,276,2,industrial,9
+1666,Santiago del Estero,289,7,comercial,3
+1667,Catamarca,998,7,industrial,9
+1668,Tucumán,970,19,residencial,7
+1669,Tucumán,1085,2,residencial,11
+1670,Jujuy,832,1,residencial,8
+1671,Catamarca,1194,4,industrial,7
+1672,Santiago del Estero,1114,20,industrial,11
+1673,Jujuy,1130,6,comercial,12
+1674,Catamarca,172,15,residencial,7
+1675,Salta,1083,4,residencial,1
+1676,Salta,611,16,residencial,6
+1677,Jujuy,200,17,residencial,2
+1678,Salta,622,4,industrial,8
+1679,Catamarca,1492,8,residencial,2
+1680,Salta,1432,17,residencial,12
+1681,Tucumán,993,11,industrial,2
+1682,Salta,183,16,residencial,6
+1683,Santiago del Estero,382,1,industrial,5
+1684,Tucumán,339,9,industrial,4
+1685,Tucumán,300,14,industrial,1
+1686,Jujuy,166,2,residencial,6
+1687,Tucumán,436,13,comercial,9
+1688,Jujuy,1456,6,comercial,5
+1689,Salta,522,18,comercial,11
+1690,Jujuy,590,1,comercial,7
+1691,Catamarca,850,5,comercial,12
+1692,Tucumán,471,10,industrial,5
+1693,Jujuy,216,16,residencial,9
+1694,Catamarca,574,0,industrial,12
+1695,Salta,395,6,residencial,7
+1696,Santiago del Estero,577,9,residencial,7
+1697,Salta,1480,4,industrial,10
+1698,Catamarca,1070,14,industrial,6
+1699,Catamarca,668,17,comercial,11
+1700,Jujuy,251,16,comercial,5
+1701,Catamarca,878,10,comercial,5
+1702,Catamarca,1468,13,industrial,2
+1703,Salta,288,12,industrial,2
+1704,Salta,619,6,residencial,9
+1705,Tucumán,438,5,industrial,1
+1706,Jujuy,1422,0,comercial,1
+1707,Salta,716,12,comercial,5
+1708,Santiago del Estero,984,16,industrial,3
+1709,Salta,796,13,residencial,5
+1710,Salta,352,4,comercial,2
+1711,Santiago del Estero,794,4,comercial,2
+1712,Salta,1238,15,industrial,5
+1713,Catamarca,56,2,industrial,5
+1714,Santiago del Estero,1234,11,industrial,12
+1715,Tucumán,167,3,residencial,1
+1716,Salta,181,18,industrial,1
+1717,Catamarca,282,13,industrial,8
+1718,Catamarca,98,1,residencial,5
+1719,Santiago del Estero,1275,3,industrial,5
+1720,Jujuy,121,0,comercial,4
+1721,Catamarca,1152,20,residencial,12
+1722,Jujuy,1284,10,residencial,9
+1723,Jujuy,489,16,industrial,9
+1724,Santiago del Estero,821,20,comercial,8
+1725,Tucumán,637,9,comercial,2
+1726,Jujuy,776,11,comercial,11
+1727,Catamarca,773,1,comercial,5
+1728,Santiago del Estero,1466,3,residencial,2
+1729,Jujuy,1086,15,comercial,11
+1730,Santiago del Estero,532,18,residencial,7
+1731,Catamarca,167,11,industrial,11
+1732,Tucumán,790,15,industrial,7
+1733,Santiago del Estero,377,0,residencial,9
+1734,Salta,941,16,comercial,10
+1735,Jujuy,830,0,comercial,11
+1736,Tucumán,838,5,industrial,10
+1737,Jujuy,625,0,comercial,12
+1738,Tucumán,268,11,industrial,6
+1739,Jujuy,380,12,industrial,9
+1740,Tucumán,1139,14,comercial,5
+1741,Santiago del Estero,1448,19,industrial,6
+1742,Santiago del Estero,415,1,industrial,1
+1743,Santiago del Estero,1370,19,residencial,11
+1744,Salta,1352,16,comercial,2
+1745,Catamarca,1363,11,comercial,10
+1746,Salta,1442,12,residencial,7
+1747,Santiago del Estero,1483,10,residencial,3
+1748,Jujuy,1096,19,residencial,9
+1749,Tucumán,675,9,comercial,10
+1750,Catamarca,1319,9,comercial,8
+1751,Jujuy,385,8,residencial,11
+1752,Jujuy,1319,3,residencial,4
+1753,Jujuy,1439,19,industrial,10
+1754,Santiago del Estero,1390,19,industrial,8
+1755,Jujuy,167,6,industrial,3
+1756,Salta,177,2,industrial,8
+1757,Tucumán,623,20,industrial,9
+1758,Jujuy,786,18,comercial,7
+1759,Salta,755,20,residencial,9
+1760,Jujuy,1184,17,industrial,4
+1761,Jujuy,412,5,industrial,12
+1762,Santiago del Estero,816,15,residencial,6
+1763,Jujuy,639,17,industrial,9
+1764,Jujuy,175,1,industrial,8
+1765,Salta,1192,1,residencial,10
+1766,Salta,64,5,comercial,4
+1767,Catamarca,1031,6,comercial,4
+1768,Salta,242,15,industrial,11
+1769,Santiago del Estero,1073,1,residencial,8
+1770,Salta,736,0,industrial,6
+1771,Catamarca,808,8,residencial,4
+1772,Tucumán,1082,9,industrial,3
+1773,Tucumán,1457,8,residencial,1
+1774,Tucumán,681,0,residencial,8
+1775,Catamarca,353,13,residencial,1
+1776,Salta,673,1,comercial,9
+1777,Catamarca,1210,9,industrial,12
+1778,Jujuy,294,7,comercial,8
+1779,Jujuy,926,9,residencial,8
+1780,Tucumán,912,13,industrial,10
+1781,Santiago del Estero,382,14,industrial,1
+1782,Tucumán,537,19,residencial,3
+1783,Tucumán,53,3,residencial,6
+1784,Jujuy,1284,6,industrial,12
+1785,Catamarca,451,6,residencial,4
+1786,Catamarca,157,2,residencial,3
+1787,Salta,359,2,residencial,5
+1788,Jujuy,1100,5,industrial,7
+1789,Jujuy,973,8,industrial,12
+1790,Jujuy,868,9,comercial,5
+1791,Tucumán,213,2,residencial,11
+1792,Jujuy,932,0,industrial,7
+1793,Salta,232,17,industrial,1
+1794,Tucumán,1176,0,comercial,4
+1795,Catamarca,61,19,comercial,11
+1796,Santiago del Estero,547,7,residencial,3
+1797,Tucumán,860,15,industrial,1
+1798,Catamarca,367,11,industrial,5
+1799,Tucumán,1350,14,residencial,6
+1800,Tucumán,1022,13,industrial,1
+1801,Catamarca,1065,8,industrial,3
+1802,Jujuy,1426,5,industrial,4
+1803,Jujuy,1368,5,residencial,6
+1804,Salta,1165,13,residencial,6
+1805,Catamarca,1466,0,industrial,12
+1806,Tucumán,256,5,residencial,1
+1807,Tucumán,651,14,residencial,9
+1808,Jujuy,1319,3,industrial,7
+1809,Tucumán,1426,7,residencial,4
+1810,Salta,1028,17,residencial,9
+1811,Catamarca,976,2,residencial,4
+1812,Santiago del Estero,1106,7,industrial,1
+1813,Jujuy,981,12,residencial,2
+1814,Salta,980,16,industrial,5
+1815,Jujuy,1049,5,comercial,3
+1816,Salta,1441,14,comercial,4
+1817,Catamarca,301,3,residencial,11
+1818,Jujuy,301,9,residencial,4
+1819,Jujuy,1140,9,industrial,5
+1820,Salta,661,2,comercial,5
+1821,Salta,629,11,comercial,8
+1822,Tucumán,366,6,comercial,3
+1823,Catamarca,1196,10,industrial,7
+1824,Salta,629,4,comercial,1
+1825,Jujuy,339,4,industrial,8
+1826,Jujuy,1431,11,residencial,7
+1827,Tucumán,91,9,industrial,3
+1828,Catamarca,397,12,comercial,7
+1829,Jujuy,1016,19,residencial,5
+1830,Catamarca,1175,9,residencial,12
+1831,Catamarca,158,7,residencial,3
+1832,Catamarca,735,16,residencial,5
+1833,Catamarca,1390,6,comercial,10
+1834,Jujuy,969,5,residencial,9
+1835,Jujuy,964,6,residencial,8
+1836,Santiago del Estero,968,0,comercial,4
+1837,Jujuy,878,11,comercial,2
+1838,Salta,588,1,comercial,1
+1839,Tucumán,59,4,comercial,1
+1840,Jujuy,670,6,industrial,2
+1841,Santiago del Estero,784,0,industrial,10
+1842,Jujuy,1421,2,residencial,5
+1843,Tucumán,699,19,comercial,7
+1844,Salta,305,15,comercial,8
+1845,Salta,170,13,comercial,11
+1846,Santiago del Estero,435,18,comercial,4
+1847,Santiago del Estero,1273,15,comercial,8
+1848,Santiago del Estero,909,1,comercial,12
+1849,Salta,1124,5,residencial,11
+1850,Salta,891,19,industrial,6
+1851,Catamarca,1186,5,residencial,8
+1852,Santiago del Estero,277,0,residencial,2
+1853,Jujuy,81,14,residencial,3
+1854,Jujuy,278,5,comercial,6
+1855,Catamarca,750,4,comercial,10
+1856,Jujuy,664,4,industrial,6
+1857,Jujuy,504,5,residencial,10
+1858,Santiago del Estero,476,18,comercial,5
+1859,Salta,998,11,comercial,1
+1860,Salta,656,11,industrial,11
+1861,Jujuy,460,9,industrial,11
+1862,Tucumán,370,3,industrial,11
+1863,Santiago del Estero,1071,3,comercial,8
+1864,Catamarca,1126,12,residencial,6
+1865,Jujuy,575,11,comercial,7
+1866,Salta,1333,12,comercial,6
+1867,Catamarca,677,8,industrial,9
+1868,Salta,937,15,residencial,8
+1869,Catamarca,275,17,residencial,2
+1870,Santiago del Estero,582,5,residencial,8
+1871,Tucumán,266,7,industrial,3
+1872,Tucumán,670,19,comercial,1
+1873,Salta,831,15,residencial,9
+1874,Jujuy,512,10,comercial,1
+1875,Catamarca,409,18,industrial,6
+1876,Jujuy,1248,8,comercial,1
+1877,Catamarca,1499,12,comercial,10
+1878,Tucumán,308,6,industrial,7
+1879,Santiago del Estero,1399,9,comercial,12
+1880,Salta,1277,9,industrial,3
+1881,Tucumán,399,7,residencial,11
+1882,Tucumán,930,8,residencial,4
+1883,Salta,1290,9,industrial,9
+1884,Jujuy,876,14,residencial,9
+1885,Jujuy,561,14,residencial,4
+1886,Santiago del Estero,415,3,industrial,7
+1887,Santiago del Estero,503,5,residencial,7
+1888,Catamarca,1329,17,comercial,7
+1889,Jujuy,629,19,residencial,9
+1890,Salta,150,7,comercial,8
+1891,Santiago del Estero,859,2,comercial,3
+1892,Jujuy,926,17,residencial,6
+1893,Jujuy,1217,3,comercial,6
+1894,Santiago del Estero,1045,20,residencial,2
+1895,Santiago del Estero,1172,11,residencial,12
+1896,Santiago del Estero,621,1,industrial,5
+1897,Salta,1212,0,industrial,6
+1898,Catamarca,376,20,comercial,8
+1899,Catamarca,105,18,residencial,8
+1900,Jujuy,922,3,industrial,7
+1901,Tucumán,1397,13,comercial,11
+1902,Santiago del Estero,483,1,comercial,11
+1903,Tucumán,236,15,residencial,12
+1904,Tucumán,516,6,industrial,6
+1905,Jujuy,977,14,comercial,2
+1906,Tucumán,1333,6,residencial,8
+1907,Salta,819,13,industrial,2
+1908,Catamarca,1262,4,industrial,3
+1909,Salta,730,11,residencial,7
+1910,Santiago del Estero,71,9,residencial,1
+1911,Jujuy,623,20,industrial,2
+1912,Catamarca,183,11,comercial,7
+1913,Catamarca,1151,13,residencial,12
+1914,Tucumán,314,5,industrial,7
+1915,Salta,1222,18,industrial,1
+1916,Tucumán,163,11,industrial,10
+1917,Catamarca,1416,0,industrial,2
+1918,Catamarca,463,17,comercial,9
+1919,Salta,1283,20,residencial,3
+1920,Catamarca,943,16,industrial,2
+1921,Catamarca,1417,14,residencial,4
+1922,Salta,515,18,comercial,11
+1923,Santiago del Estero,1101,0,residencial,1
+1924,Santiago del Estero,1172,3,residencial,8
+1925,Tucumán,430,0,comercial,4
+1926,Santiago del Estero,1489,17,industrial,10
+1927,Tucumán,221,11,comercial,8
+1928,Jujuy,549,5,comercial,2
+1929,Jujuy,1475,3,residencial,5
+1930,Salta,800,10,residencial,5
+1931,Salta,1499,18,industrial,6
+1932,Salta,623,2,industrial,3
+1933,Tucumán,504,8,industrial,10
+1934,Salta,804,3,residencial,3
+1935,Catamarca,437,15,comercial,3
+1936,Tucumán,267,17,comercial,9
+1937,Salta,306,12,comercial,7
+1938,Catamarca,724,7,residencial,11
+1939,Santiago del Estero,207,1,residencial,8
+1940,Tucumán,1353,19,residencial,2
+1941,Tucumán,138,3,residencial,12
+1942,Tucumán,89,4,industrial,6
+1943,Santiago del Estero,882,17,industrial,9
+1944,Jujuy,878,13,residencial,2
+1945,Salta,1162,12,comercial,5
+1946,Jujuy,1242,2,comercial,11
+1947,Jujuy,1166,14,industrial,8
+1948,Santiago del Estero,791,11,residencial,1
+1949,Jujuy,454,17,comercial,9
+1950,Tucumán,1213,6,industrial,8
+1951,Tucumán,118,0,industrial,5
+1952,Salta,998,3,residencial,9
+1953,Santiago del Estero,333,11,comercial,2
+1954,Santiago del Estero,1037,13,residencial,6
+1955,Tucumán,1444,8,comercial,8
+1956,Salta,238,2,industrial,2
+1957,Santiago del Estero,194,10,industrial,11
+1958,Jujuy,706,1,industrial,1
+1959,Tucumán,235,1,residencial,1
+1960,Catamarca,1050,3,industrial,3
+1961,Salta,852,12,residencial,5
+1962,Catamarca,1192,12,residencial,4
+1963,Tucumán,1339,9,industrial,7
+1964,Tucumán,636,14,comercial,1
+1965,Salta,478,7,industrial,12
+1966,Santiago del Estero,439,18,comercial,9
+1967,Jujuy,1345,18,industrial,3
+1968,Jujuy,1114,1,industrial,12
+1969,Catamarca,1002,19,residencial,7
+1970,Catamarca,282,11,comercial,1
+1971,Tucumán,250,15,industrial,10
+1972,Tucumán,1146,18,residencial,8
+1973,Jujuy,1242,7,comercial,10
+1974,Jujuy,761,12,industrial,6
+1975,Tucumán,1419,2,residencial,12
+1976,Salta,645,0,industrial,4
+1977,Jujuy,1077,4,residencial,2
+1978,Jujuy,306,9,industrial,6
+1979,Jujuy,346,9,comercial,12
+1980,Catamarca,478,7,industrial,8
+1981,Santiago del Estero,231,9,industrial,1
+1982,Salta,1274,11,industrial,3
+1983,Catamarca,360,16,residencial,10
+1984,Salta,1343,20,residencial,8
+1985,Jujuy,1433,18,comercial,4
+1986,Jujuy,1297,2,residencial,9
+1987,Tucumán,293,17,residencial,4
+1988,Catamarca,610,0,comercial,12
+1989,Jujuy,719,0,industrial,11
+1990,Catamarca,828,13,industrial,5
+1991,Jujuy,71,5,residencial,9
+1992,Jujuy,1243,18,comercial,9
+1993,Tucumán,1157,17,residencial,11
+1994,Jujuy,293,9,comercial,2
+1995,Salta,130,16,industrial,1
+1996,Santiago del Estero,1306,4,residencial,3
+1997,Tucumán,345,18,comercial,8
+1998,Jujuy,712,17,residencial,1
+1999,Catamarca,167,9,comercial,4
+2000,Tucumán,134,7,industrial,7
